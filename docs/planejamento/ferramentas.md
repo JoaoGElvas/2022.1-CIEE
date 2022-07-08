@@ -12,4 +12,4 @@ Ferramentas Utilizadas
 	
 	Discord - Plataforma em que vamos nos comunicar por chamada de áudio
   
- 	 Lucidchart - Ferramenta case, onde vamos fazer nosso diagrama
+ 	Lucidchart - Ferramenta case, onde vamos fazer nosso diagrama
