@@ -4,7 +4,7 @@ Ferramentas Utilizadas
 	
 	Vscode - Editor de código destinado ao desenvolvimento de aplicações com controle Git incorporado
 
-  GitHub - Plataforma de versionamento em que iremos armazenar todos os arquivos relacionados ao projeto
+  	GitHub - Plataforma de versionamento em que iremos armazenar todos os arquivos relacionados ao projeto
 
 	Google Docs - Ferramenta de editor de texto, para a documentação do projeto
 
@@ -12,4 +12,4 @@ Ferramentas Utilizadas
 	
 	Discord - Plataforma em que vamos nos comunicar por chamada de áudio
   
-  Lucidchart - Ferramenta case, onde vamos fazer nosso diagrama
+ 	 Lucidchart - Ferramenta case, onde vamos fazer nosso diagrama
