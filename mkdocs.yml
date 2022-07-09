@@ -1,9 +1,16 @@
 site_name: CIEE
 
+theme:
+  name: material
+  language: pt
+  logo: img/logowhite.png
+  favicon: img/logo.png
+  palette:
+    scheme: slate
+
 nav:
   - Inicio: index.md
   - Planejamento:
-    - Equipe: planejamento/equipe.md
     - Escolha do site: planejamento/escolha_site.md
     - Ferramentas: planejamento/ferramentas.md
     - Cronograma: planejamento/cronograma.md
