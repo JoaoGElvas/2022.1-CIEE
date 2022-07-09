@@ -3,10 +3,10 @@
 ## Escolha do site:
 | **SITES**        | **INTEGRANTES**     |
 |------------------|---------------------|
-| MOJ              | Pedro Henrique      |
+| MOJ              | PEDRO HENRIQUE    |
 | OJOGOS           | LUIZ HENRIQUE       |
 | CIEE             | DAVI LIMA           |
-| SAE              | KARLA               |
+| SAE              | KARLA CHAIANE               |
 | GOVERNO DE PIAUÍ | GUILHERME NISHIMURA |
 
 Para o projeto foram avaliados sites acima para que após a análise foi filtrado em apenas um. 
@@ -28,6 +28,20 @@ O motivo da escolha foram as seguintes:
 * Dificuldades encontradas no site
 *	Alcance dos usuários
 *	Familiaridade do site por parte dos integrantes 
+
+## Referências Bibliográficas
+BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
+
+MACIEL,Cristiano."Avaliação Heurística de Sítios na Web".Instituto de Computação - Universidade Federal Fluminense (UFF)
+
+## Versionamento
+| Versão | Data | Descrição | Autor
+|--- |--- |--- |--- |
+| 1.0 | 09/07/2022 | Criação inicial do documento | Guilherme Nishimura |
+
+
+
+
 
 
 
