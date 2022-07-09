@@ -10,20 +10,22 @@ A síntese de uma intervenção: planejar e executar uma intervenção na situa�
 
 A avaliação da nova situação: verificar o efeito da intervenção, comparando a situação analisada anteriormente com a nova situação, atingida após a intervenção;
 (Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 93).
+
 <p align="center">
-  <img src="img/atividadeDesign.png">
-</p>
-(Imagem 1) Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 93.
+  <img src="/../img/atividadeDesign.png">
+</p> 
+
+*(Imagem 1) Atividades de design envolvidas na intervenção para transformar a situação atual (situação 1) em uma situação desejada (situação 2) - Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 93.* 
 
 ## Engenharia de Usabilidade de Mayhew:
 Utilizaremos o ciclo de vida de Mayhew processo de design para avaliarmos o site. Por possuir uma visão holística, acreditamos que esse processo é a melhor opção visão dentre as disponíveis para a avaliação.
 Em 1999 Deborah Mayhew propôs um ciclo de vida de usabilidade que com uma visão panorâmica reúne e organiza as diferentes atividades da área de IHC a fim de orientar o design em direção a uma solução interativa eficiente. O ciclo de vida consiste em 3 fases: analise de requisitos, design/avaliação/desenvolvimento e instalação, como podemos ver na tabela a seguir: 
 
 <p align="center">
-  <img src="img/ciclodevidaMayhew.png">
+  <img src="/../img/ciclodevidaMayhew.png">
 </p>
 
-(Imagem 2) Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.
+(Imagem 2) Tabela de ativides envolvidas no ciclo de vida de Mayhew - Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.
 
 ## Histórico de versão
 |Versão	| Data	| Descrição |	Autor(s)	| Revisor(s)|
