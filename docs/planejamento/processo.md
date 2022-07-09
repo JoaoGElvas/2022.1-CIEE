@@ -4,11 +4,11 @@
 
 Durante o dia a dia, é comum uma pessoa interagir com diferentes artefatos. E artefatos nada mais são que produtos artificiais, feitos primordialmente pelas mãos humanas, eles possuem sempre um proposito a ser cumprido. Artefatos tendem sempre a trazer consigo benefícios ao ambiente que lhe foi projetado, porém, ao viés do que lhe foi proposto, um artefato pode acabar trazendo consequências negativas ao meio, e é por isso que na elaboração de um artefato, é imprescindível que se busque sempre diminuir as características desagradáveis e melhorar os demais aspectos o quanto for possível. Essas atividades envolvem atividades de design, conscientes ou inconscientes, que segundo Lawson, Löwgren e Stolterman, podemos dividir em 3 atividades principais:
 
-Análise da situação atual: estudar e interpretar a situação atual;
+* Análise da situação atual: estudar e interpretar a situação atual;
 
-A síntese de uma intervenção: planejar e executar uma intervenção na situação atual;
+* A síntese de uma intervenção: planejar e executar uma intervenção na situação atual;
 
-A avaliação da nova situação: verificar o efeito da intervenção, comparando a situação analisada anteriormente com a nova situação, atingida após a intervenção;
+* A avaliação da nova situação: verificar o efeito da intervenção, comparando a situação analisada anteriormente com a nova situação, atingida após a intervenção;
 (Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 93).
 
 <p align="center">
@@ -25,7 +25,7 @@ Em 1999 Deborah Mayhew propôs um ciclo de vida de usabilidade que com uma visã
   <img src="/../img/ciclodevidaMayhew.png">
 </p>
 
-(Imagem 2) Tabela de ativides envolvidas no ciclo de vida de Mayhew - Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.
+*(Imagem 2) Tabela de ativides envolvidas no ciclo de vida de Mayhew - Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.*
 
 ## Histórico de versão
 |Versão	| Data	| Descrição |	Autor(s)	| Revisor(s)|
