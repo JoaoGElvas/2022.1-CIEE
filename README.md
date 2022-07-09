@@ -17,6 +17,5 @@
         <td align="center"><a href="https://github.com/KarlaCSF" target="_blank"><img style="border-radius: 50%;" src="docs/img/karla.png" width="100px;"><br /><sub><b>Karla Chaiane</b></sub></a><br /><a href="https://github.com/KarlaCSF" target="_blank"></a></td>
         <td align="center"><a href="https://github.com/luishenrrique" target="_blank"><img style="border-radius: 50%;" src="docs/img/luis.png" width="100px;"><br /><sub><b>Luis Henrique</b></sub></a><br /><a href="https://github.com/luishenrrique" target="_blank"></a></td>
         <td align="center"><a href="https://github.com/pehenobra2" target="_blank"><img style="border-radius: 50%;" src="docs/img/pedro.png" width="100px;"><br /><sub><b>Pedro Henrique</b></sub></a><br /><a href="https://github.com/pehenobra2" target="_blank"></a></td>
-        
     </tr>
 </table>
