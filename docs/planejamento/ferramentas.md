@@ -6,8 +6,7 @@
 
 | Ferramentas | Descrição |
 |--- |---|
-
-| ![image](https://user-images.githubusercontent.com/57445188/178147699-ec6176ae-4177-4f8b-9863-dbef6bbb071b.png) | |GitHub - Plataforma de versionamento em que iremos armazenar todos os arquivos relacionados ao projeto |
+| ![image](https://user-images.githubusercontent.com/57445188/178147699-ec6176ae-4177-4f8b-9863-dbef6bbb071b.png) | GitHub - Plataforma de versionamento em que iremos armazenar todos os arquivos relacionados ao projeto |
 	
 | ![image](https://user-images.githubusercontent.com/57445188/178148009-e6a06c19-b84e-4833-9eac-5bc3356a8e84.png) |
 |:--:| 
