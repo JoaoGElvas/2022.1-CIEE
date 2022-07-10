@@ -9,6 +9,7 @@ Durante o dia a dia, é comum uma pessoa interagir com diferentes artefatos. E a
 * A síntese de uma intervenção: planejar e executar uma intervenção na situação atual;
 
 * A avaliação da nova situação: verificar o efeito da intervenção, comparando a situação analisada anteriormente com a nova situação, atingida após a intervenção;
+
 (Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 93).
 
 | ![atividadeDesign](https://user-images.githubusercontent.com/79341819/178147536-2412499a-6811-4f68-8890-1d73d95021ac.png) |
