@@ -1,3 +1,8 @@
+## Versionamento
+| Versão | Data | Descrição | Autor | Revisão
+|--- |--- |--- |--- |--- |
+| 1.0 | 09/07/2022 | Criação inicial do documento | Guilherme Nishimura | Pedro Henrique
+
 Ferramentas Utilizadas
 
 	WhatsApp - Ferramenta para a comunicação rápida entre os integrantes
