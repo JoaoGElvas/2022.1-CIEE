@@ -4,7 +4,8 @@
 |--- |--- |--- |--- |--- |
 | 1.0 | 09/07/2022 | Criação inicial do documento | Guilherme Nishimura | Pedro Henrique
 
-
+| Ferramentas | Descrição |
+|--- |---|
 
 | ![image](https://user-images.githubusercontent.com/57445188/178147699-ec6176ae-4177-4f8b-9863-dbef6bbb071b.png) | |GitHub - Plataforma de versionamento em que iremos armazenar todos os arquivos relacionados ao projeto |
 	
