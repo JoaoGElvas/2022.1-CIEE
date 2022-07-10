@@ -24,10 +24,12 @@ Em 1999 Deborah Mayhew propôs um ciclo de vida de usabilidade que com uma visã
 |:--:| 
 | *(Imagem 2) Tabela de ativides envolvidas no ciclo de vida de Mayhew - Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.* |
 
+## Referências Bibliográficas
+BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
+
 ## Histórico de versão
 |Versão	| Data	| Descrição |	Autor(s)	| Revisor(s)|
 |--------|----|-----------|-------|---------|
 | 1.0 |	09/07/2022	| Criação do documento de processo de design	| Davi Lima |	Karla Chaiane |
 
-## Referências Bibliográficas
-BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
+
