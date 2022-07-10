@@ -4,11 +4,11 @@
 |--- |--- |--- |--- |--- |
 | 1.0 | 09/07/2022 | Criação inicial do documento | Guilherme Nishimura | Pedro Henrique
 
-| ![image](https://user-images.githubusercontent.com/57445188/178147699-ec6176ae-4177-4f8b-9863-dbef6bbb071b.png) |
-|:--:| 
-|GitHub - Plataforma de versionamento em que iremos armazenar todos os arquivos relacionados ao projeto |
+
+
+| ![image](https://user-images.githubusercontent.com/57445188/178147699-ec6176ae-4177-4f8b-9863-dbef6bbb071b.png) | |GitHub - Plataforma de versionamento em que iremos armazenar todos os arquivos relacionados ao projeto |
 	
-| ![image](https://user-images.githubusercontent.com/57445188/178147862-b4a06c60-b4e0-4460-9134-245203b91083.png) |
+| ![image](https://user-images.githubusercontent.com/57445188/178148009-e6a06c19-b84e-4833-9eac-5bc3356a8e84.png) |
 |:--:| 
 |WhatsApp - Ferramenta para a comunicação rápida entre os integrantes |	
 	
@@ -34,3 +34,5 @@
 | ![image](https://user-images.githubusercontent.com/57445188/178147775-a37bdb2b-1eb6-4ff7-a9da-947c8f483e54.png)|
 |:--:| 
 |Lucidchart - Ferramenta case, onde vamos fazer nosso diagrama|
+
+
