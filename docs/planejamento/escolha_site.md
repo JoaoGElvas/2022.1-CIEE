@@ -25,9 +25,10 @@ A escolha se deu após uma reunião do grupo onde em concordância do site escol
 
 
 O motivo da escolha foram as seguintes:
+
 * Dificuldades encontradas no site
-*	Alcance dos usuários
-*	Familiaridade do site por parte dos integrantes 
+* Alcance dos usuários
+* Familiaridade do site por parte dos integrantes 
 
 ## Referências Bibliográficas
 BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
