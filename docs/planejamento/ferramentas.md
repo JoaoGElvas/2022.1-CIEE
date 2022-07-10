@@ -1,8 +1,6 @@
 # Ferramentas Utilizadas
-## Versionamento
-| Versão | Data | Descrição | Autor | Revisão
-|--- |--- |--- |--- |--- |
-| 1.0 | 09/07/2022 | Criação inicial do documento | Guilherme Nishimura | Pedro Henrique
+
+Esta tabela irá mostrar as ferramentas que vamos utilizar ao longo do semestre para fazer o trabalho
 
 | Ferramentas | Descrição |
 |--- |---|
@@ -15,3 +13,7 @@
 | ![image](https://user-images.githubusercontent.com/57445188/178147775-a37bdb2b-1eb6-4ff7-a9da-947c8f483e54.png)| Lucidchart - Ferramenta case, onde vamos fazer nosso diagrama|
 
 
+## Versionamento
+| Versão | Data | Descrição | Autor | Revisão
+|--- |--- |--- |--- |--- |
+| 1.0 | 09/07/2022 | Criação inicial do documento | Pedro Henrique | Guilherme Nishimura
