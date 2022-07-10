@@ -35,9 +35,9 @@ BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora
 MACIEL,Cristiano."Avaliação Heurística de Sítios na Web".Instituto de Computação - Universidade Federal Fluminense (UFF)
 
 ## Versionamento
-| Versão | Data | Descrição | Autor
-|--- |--- |--- |--- |
-| 1.0 | 09/07/2022 | Criação inicial do documento | Guilherme Nishimura |
+| Versão | Data | Descrição | Autor | Revisão
+|--- |--- |--- |--- |--- |
+| 1.0 | 09/07/2022 | Criação inicial do documento | Guilherme Nishimura | Pedro Henrique
 
 
 
