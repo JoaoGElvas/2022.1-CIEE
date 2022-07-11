@@ -4,7 +4,7 @@ O cronograma tem como objetivo definir um planejamento das tarefas entregues e s
 
 Com base no plano de ensino e as entregas definidas pelo professor, nosso grupo organizou o cronograma em 7 pontos de controle além da apresentação final:
 
-## 1º Ponto de Controle - [Apresentação do projeto etapa 1]() (11/07)
+## 1º Ponto de Controle - [Apresentação do projeto etapa 1](/../apresentacoes/apresentacao1.md) (11/07)
 
 Ponto de controle focado em avaliar o sistema, entender o problema, definir o escopo e fazer o planejamento da equipe e do projeto.
 
@@ -19,7 +19,7 @@ Ponto de controle focado em avaliar o sistema, entender o problema, definir o es
 | Planejamento da equipe             | 07/07/2022             | Todos os integrantes       | Todos os integrantes        |
 | Planejamento do projeto            | 07/07/2022             | Todos os integrantes       | Todos os integrantes        |
 
-## 2º Ponto de Controle - [Apresentação do projeto etapa 2](../apresentacoes/apresentacao2.md) (20/07)
+## 2º Ponto de Controle - [Apresentação do projeto etapa 2]() (20/07)
 
 Ponto de controle com foco em identificar nosso usuário, fazer a análise de tarefas, personas.
 
@@ -50,7 +50,7 @@ Ponto de controle focado na avaliação do storyboard, avaliação da análise d
 | Planejamento da Avaliação da Análise de tarefas                          | 10/08/2022             | A Definir                 | A Definir    |
 | Planejamento do relato dos resultados da avaliação do Análise de tarefas | 10/08/2022             | A Definir   | A Definir |
 
-## 5º Ponto de Controle - [Apresentação do projeto etapa 5](../apresentacoes/apresentacao5.md) (17/08)
+## 5º Ponto de Controle - [Apresentação do projeto etapa 5]() (17/08)
 
 Ponto de controle focado na análise dos resultados do Storyboard, avaliação do protótipo de Papel.
 
@@ -78,7 +78,7 @@ Ponto de controle focado em fazer o protótipo de alta fidelidade e planejar mel
 | Planejamento da Avaliação do protótipo de alta fidelidade                          | 04/09/2022             | A Definir | A Definir |
 | planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 04/09/2022             | A Definir   | A Definir |
 
-## [Apresentação final](../apresentacoes/apresentacao_final.md) (12/09)
+## [Apresentação final]() (12/09)
 
 Apresentação final do projeto da disciplina
 
@@ -90,7 +90,7 @@ Apresentação final do projeto da disciplina
 
 1. SALES, André Barros. Plano de ensino da disciplina. Disponível em: <[https://aprender3.unb.br/]()>. Acesso em: 10 de julho de 2022<br>
 
-## Histórico de versões
+## Versionamento
 
 | Data       | Versão | Descrição                                  | Autor(es)      |
 | ---------- | ------ | ------------------------------------------ | -------------- |

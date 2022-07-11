@@ -27,9 +27,7 @@ Em 1999 Deborah Mayhew propôs um ciclo de vida de usabilidade que com uma visã
 ## Referências Bibliográficas
 BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
 
-## Histórico de versão
+## Versionamento
 |Versão	| Data	| Descrição |	Autor(s)	| Revisor(s)|
 |--------|----|-----------|-------|---------|
 | 1.0 |	09/07/2022	| Criação do documento de processo de design	| Davi Lima |	Karla Chaiane |
-
-

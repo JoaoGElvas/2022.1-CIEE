@@ -21,7 +21,7 @@
     </tr>
 </table>
 
-## Histórico de versão
+## Versionamento
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
 | 1.0    | 08/07/2022 | Criação da página Inicio| Karla | Davi Lima |
