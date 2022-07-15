@@ -25,11 +25,11 @@ Ponto de controle com foco em identificar nosso usuário, fazer a análise de ta
 
 | Tarefa                        | Data limite de entrega | Autor(es)                       | Revisor(es)                     |
 | ----------------------------- | ---------------------- | ------------------------------- | ------------------------------- |
-| Perfil do Usuário             | 19/07/2022             | A Definir  | A Definir |
-| Personas                      | 19/07/2022             | A Definir | A Definir     |
-| Análise de tarefas do usuário | 19/07/2022             | A Definir     | A Definir  |
+| Perfil do Usuário             | 19/07/2022             | Luis Henrique e Pedro Henrique  | A Definir |
+| Personas                      | 19/07/2022             | Guilherme Nishimura | A Definir     |
+| Análise de tarefas do usuário | 19/07/2022             | Davi Lima e Karla Chaiane     | A Definir  |
 
-## 3º Ponto de Controle - [Apresentação do projeto etapa 3]() (01/08)
+## 3º Ponto de Controle - (01/08)
 
 Ponto de controle focado em metas de usabilidade, guias de estilo.
 
@@ -39,7 +39,7 @@ Ponto de controle focado em metas de usabilidade, guias de estilo.
 | Metas de usabilidade         | 31/08/2022            | A Definir | A Definir    |
 | Guia de estilo               | 31/08/2022             | A Definir     | A Definir  |
 
-## 4º Ponto de Controle - [Apresentação do projeto etapa 4]() (11/08)
+## 4º Ponto de Controle - (11/08)
 
 Ponto de controle focado na avaliação do storyboard, avaliação da análise de tarefas.
 
@@ -50,7 +50,7 @@ Ponto de controle focado na avaliação do storyboard, avaliação da análise d
 | Planejamento da Avaliação da Análise de tarefas                          | 10/08/2022             | A Definir                 | A Definir    |
 | Planejamento do relato dos resultados da avaliação do Análise de tarefas | 10/08/2022             | A Definir   | A Definir |
 
-## 5º Ponto de Controle - [Apresentação do projeto etapa 5]() (17/08)
+## 5º Ponto de Controle - (17/08)
 
 Ponto de controle focado na análise dos resultados do Storyboard, avaliação do protótipo de Papel.
 
@@ -60,15 +60,15 @@ Ponto de controle focado na análise dos resultados do Storyboard, avaliação d
 | Planejamento da Avaliação do Protótipo de Papel                          | 16/08/2022             | A Definir    | A Definir |
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel | 16/08/2022             | A Definir         | A Definir          |
 
-## 6º Ponto de Controle - [Apresentação do projeto etapa 6]() (22/08)
+## 6º Ponto de Controle - (22/08)
 
 Ponto de controle focado na verificação dos artefatos
 
 | Tarefa                    | Data limite de entrega | Autor(es)            | Revisor(es)          |
 | :------------------------ | ---------------------- | -------------------- | -------------------- |
-| Verificação dos artefatos | 21/08/2022             | Todos os integrantes | Todos os integrantes |
+| Verificação dos artefatos | 21/08/2022             | A Definir | A Definir |
 
-## 7º Ponto de Controle - [Apresentação do projeto etapa 7]() (05/09)
+## 7º Ponto de Controle - (05/09)
 
 Ponto de controle focado em fazer o protótipo de alta fidelidade e planejar melhorias para a entrega do projeto
 
@@ -78,7 +78,7 @@ Ponto de controle focado em fazer o protótipo de alta fidelidade e planejar mel
 | Planejamento da Avaliação do protótipo de alta fidelidade                          | 04/09/2022             | A Definir | A Definir |
 | planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 04/09/2022             | A Definir   | A Definir |
 
-## [Apresentação final]() (12/09)
+## Apresentação final (12/09)
 
 Apresentação final do projeto da disciplina
 
@@ -92,7 +92,7 @@ Apresentação final do projeto da disciplina
 
 ## Versionamento
 
-| Data       | Versão | Descrição                                  | Autor(es)      |
-| ---------- | ------ | ------------------------------------------ | -------------- |
-| 09/06/2022 | 1.0    | Criação do documento                       | Luis Henrique  |
-| 10/06/2022 | 1.1    | Adicionando informações sobre o cronograma | Luis Henrique  |
+| Data       | Versão | Descrição                                  | Autor(es)      | Revisor(es)  |
+| ---------- | ------ | ------------------------------------------ | -------------- | ------------ |
+| 09/06/2022 | 1.0    | Criação do documento                       | Luis Henrique  | Todos os integrantes |
+| 10/06/2022 | 1.1    | Adicionando informações sobre o cronograma | Luis Henrique  | Todos os integrantes |
