@@ -15,4 +15,8 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
     - Cronograma: planejamento/cronograma.md
     - Processo de Design: planejamento/processo.md
+  - Análise de Requisitos:
+    - Perfil de Usuário: analise_requisitos/perfil_usuario.md
+    - Personas: analise_requisitos/personas.md
+    - Análise de Tarefas: analise_requisitos/analise_tarefas.md
   - Apresentações: apresentacoes.md
