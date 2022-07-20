@@ -21,6 +21,6 @@ aos outros; respeitar a privacidade dos outros; e honrar a confidencialidade de 
   
 ## Versionamento
 
-| Versão | Data       | Descrição                         | Autor          | Revisor      |
-|--------|------------|-----------------------------------|----------------|--------------|
-| 1.0    | 20/07/2022 | Criação do Termo de Concentimento | Pedro Henrique | Luis Henrique|
+| Data       | Versão   | Descrição                         | Autor          | Revisor      |
+|------------|------------|-----------------------------------|----------------|--------------|
+| 20/07/2022 | 1.0 | Criação do Termo de Concentimento | Pedro Henrique | Luis Henrique|
