@@ -7,11 +7,11 @@ criada para descrever um usuário típico (Cooper et al., 2014; Pruitt e Adlin, 
 É baseado em dados e características de clientes reais, como comportamento, dados demográficos, problemas, desafios e objetivos.
 As personas podem ser dividas em :
 
-*Primária* : No nosso caso é a pessoa que utiliza o site com mais frequência;
+*Primária* : No nosso caso é a usuário que utiliza o site com mais frequência;
 
-*Secundária*: Pessoa utiliza o site com menos frequência ou por meio de outras pessoas;
+*Secundária*: Usuário que utiliza o site com menos frequência ou por meio de outras pessoas;
 
-*Stakeholders* : Pessoas que podem vir a ter interesse e utilização do site;
+*Stakeholders* : Pessoa que podem vir a ter interesse e utilização do site;
 
 Também nos temos os Antiusuários(Antipersona) que é alguém que não vai utilizar o produto e, portanto, não deve
 influenciar as decisões de projeto (Courage e Bexter,2005)
@@ -63,3 +63,4 @@ Imagens retiradas do site: https://thispersondoesnotexist.com/
 | Versão | Data | Descrição | Autor | Revisão
 |--- |--- |--- |--- |--- |
 | 1.0 | 19/07/2022 | Criação inicial do documento | Guilherme Nishimura | Karla Chaiane
+| 1.1 | 20/07/2022 | Ajuste de erros ortográficos  | Guilherme Nishimura | Karla Chaiane
