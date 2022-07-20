@@ -18,6 +18,8 @@ aos outros; respeitar a privacidade dos outros; e honrar a confidencialidade de 
 
 ## Referências Bibliograficas
   Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.R
+  
+## Versionamento
 
 | Versão | Data       | Descrição                         | Autor          | Revisor      |
 |--------|------------|-----------------------------------|----------------|--------------|
