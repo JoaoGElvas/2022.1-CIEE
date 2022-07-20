@@ -7,11 +7,11 @@ criada para descrever um usuário típico (Cooper et al., 2014; Pruitt e Adlin, 
 É baseado em dados e características de clientes reais, como comportamento, dados demográficos, problemas, desafios e objetivos.
 As personas podem ser dividas em :
 
-*Primária* : No nosso caso é a usuário que utiliza o site com mais frequência;
+*Primária* : No nosso caso é a usuário que utiliza o site com mais frequência, ele precisa ser o foco do design;
 
 *Secundária*: Usuário que utiliza o site com menos frequência ou por meio de outras pessoas;
 
-*Stakeholders* : Pessoa que podem vir a ter interesse e utilização do site;
+*Stakeholders* : Pessoas que podem vir a ter interesse e utilização do site;
 
 Também nos temos os Antiusuários(Antipersona) que é alguém que não vai utilizar o produto e, portanto, não deve
 influenciar as decisões de projeto (Courage e Bexter,2005)
