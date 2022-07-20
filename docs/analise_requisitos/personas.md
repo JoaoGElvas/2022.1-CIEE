@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Uma persona|textbf é um personagem fictício, arquétipo hipotético de um grupo de usuários reais,
+Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais,
 criada para descrever um usuário típico (Cooper et al., 2014; Pruitt e Adlin, 2006; Cooper, 1999).
 É baseado em dados e características de clientes reais, como comportamento, dados demográficos, problemas, desafios e objetivos.
 As personas podem ser dividas em :
