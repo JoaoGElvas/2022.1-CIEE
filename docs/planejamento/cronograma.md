@@ -10,14 +10,15 @@ Ponto de controle focado em avaliar o sistema, entender o problema, definir o es
 
 | Tarefa                             | Data limite de entrega | Autor(es)                  | Revisor(es)                 |
 | ---------------------------------- | ---------------------- | -------------------------- | --------------------------- |
-| Lista de sites avaliados           | 30/06/2022             | Todos os integrantes       | Todos os integrantes        |
-| Site selecionado para a disciplina | 30/06/2022             | Guilherme Nishimura        | Todos os integrantes        |
-| Criação do gitpages                | 30/06/2022             | Karla Chaiane              | Davi Lima                   |
-| Ferramentas do projeto             | 30/06/2022             | Pedro Henrique Bragança    | Guilherme Nishimura         |
-| Cronograma de atividades           | 30/06/2022             | Luis Henrique              | Pedro Henrique Bragança     |
-| Processo de Design                 | 30/06/2022             | Davi Lima                  | Karla Chaiane               |
-| Planejamento da equipe             | 07/07/2022             | Todos os integrantes       | Todos os integrantes        |
-| Planejamento do projeto            | 07/07/2022             | Todos os integrantes       | Todos os integrantes        |
+| Lista de sites avaliados           | 11/07/2022             | Todos os integrantes       | Todos os integrantes        |
+| Site selecionado para a disciplina | 11/07/2022             | Guilherme Nishimura        | Todos os integrantes        |
+| Criação do gitpages                | 11/07/2022             | Karla Chaiane              | Davi Lima                   |
+| Ferramentas do projeto             | 11/07/2022             | Pedro Henrique Bragança    | Guilherme Nishimura         |
+| Cronograma de atividades           | 11/07/2022             | Luis Henrique              | Pedro Henrique Bragança     |
+| Processo de Design                 | 11/07/2022             | Davi Lima                  | Karla Chaiane               |
+| Planejamento da equipe             | 11/07/2022             | Todos os integrantes       | Todos os integrantes        |
+| Planejamento do projeto            | 11/07/2022             | Todos os integrantes       | Todos os integrantes        |
+| Gravação do video de apresentação  | 11/07/2022             | Todos os integrantes       | Todos os integrantes        |
 
 ## 2º Ponto de Controle - [Apresentação do projeto etapa 2]() (20/07)
 
@@ -25,9 +26,12 @@ Ponto de controle com foco em identificar nosso usuário, fazer a análise de ta
 
 | Tarefa                        | Data limite de entrega | Autor(es)                       | Revisor(es)                     |
 | ----------------------------- | ---------------------- | ------------------------------- | ------------------------------- |
-| Perfil do Usuário             | 19/07/2022             | Luis Henrique e Pedro Henrique  | A Definir |
-| Personas                      | 19/07/2022             | Guilherme Nishimura | A Definir     |
-| Análise de tarefas do usuário | 19/07/2022             | Davi Lima e Karla Chaiane     | A Definir  |
+| Perfil do Usuário             | 20/07/2022             | Luis Henrique                   |                  Pedro Henrique |
+| Personas                      | 20/07/2022             | Guilherme Nishimura             |               Karla Chaiane     |
+| Análise de tarefas do usuário | 20/07/2022             | Davi Lima e Karla Chaiane       |            Guilherme Nishimura  |
+| Aspectos Éticos de Pesquisa Envolvendo Pessoas         | 20/07/2022 | Pedro Henrique     |                   Luis Henrique |
+| Gravação do video de apresentação | 20/07/2022         | Todos os integrantes            | Todos os integrantes            |
+
 
 ## 3º Ponto de Controle - (01/08)
 
@@ -35,9 +39,9 @@ Ponto de controle focado em metas de usabilidade, guias de estilo.
 
 | Tarefa                       | Data limite de entrega | Autor(es)                       | Revisor(es)                     |
 | ---------------------------- | ---------------------- | ------------------------------- | ------------------------------- |
-| Princípios gerais de projeto | 31/08/2022             | A Definir  | A Definir |
-| Metas de usabilidade         | 31/08/2022            | A Definir | A Definir    |
-| Guia de estilo               | 31/08/2022             | A Definir     | A Definir  |
+| Princípios gerais de projeto | 01/08/2022             | A Definir  | A Definir |
+| Metas de usabilidade         | 01/08/2022            | A Definir | A Definir    |
+| Guia de estilo               | 01/08/2022             | A Definir     | A Definir  |
 
 ## 4º Ponto de Controle - (11/08)
 
@@ -94,5 +98,6 @@ Apresentação final do projeto da disciplina
 
 | Data       | Versão | Descrição                                  | Autor(es)      | Revisor(es)  |
 | ---------- | ------ | ------------------------------------------ | -------------- | ------------ |
-| 09/06/2022 | 1.0    | Criação do documento                       | Luis Henrique  | Todos os integrantes |
-| 10/06/2022 | 1.1    | Adicionando informações sobre o cronograma | Luis Henrique  | Todos os integrantes |
+| 09/07/2022 | 1.0    | Criação do documento                       | Luis Henrique  | Todos os integrantes |
+| 10/07/2022 | 1.1    | Adicionando informações sobre o cronograma | Luis Henrique  | Todos os integrantes |
+| 20/07/2022 | 1.2    | Adicionando informações sobre o cronograma | Davi Lima      | Todos os integrantes |
