@@ -2,10 +2,11 @@
 
 ## Introdução
 
-Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais,
+&emsp;&emsp;Uma persona é um personagem fictício, arquétipo hipotético de um grupo de usuários reais,
 criada para descrever um usuário típico (Cooper et al., 2014; Pruitt e Adlin, 2006; Cooper, 1999).
 É baseado em dados e características de clientes reais, como comportamento, dados demográficos, problemas, desafios e objetivos.
-As personas podem ser dividas em :
+
+&emsp;&emsp;As personas podem ser dividas em :
 
 *Primária* : No nosso caso é a usuário que utiliza o site com mais frequência, ele precisa ser o foco do design;
 
@@ -13,12 +14,12 @@ As personas podem ser dividas em :
 
 *Stakeholders* : Pessoas que podem vir a ter interesse e utilização do site;
 
-Também nos temos os Antiusuários(Antipersona) que é alguém que não vai utilizar o produto e, portanto, não deve
+&emsp;&emsp;Também nos temos os Antiusuários(Antipersona) que é alguém que não vai utilizar o produto e, portanto, não deve
 influenciar as decisões de projeto (Courage e Bexter,2005)
 
 
 ## Metodologia
-Dado o perfil de usuario levantado pela equipe segue as personas criadas dividos em persona primária, persona secundária e antiusuário.
+&emsp;&emsp;Dado o perfil de usuario levantado pela equipe segue as personas criadas dividos em persona primária, persona secundária e antiusuário.
 
 ### Personas criadas
 
@@ -50,8 +51,6 @@ Figura 4: Antiusuário
 |![Análise FMEA (4)](https://user-images.githubusercontent.com/78215376/179861218-028c6f19-8423-4c4c-988b-9d85d4fc615a.png)|
 |:--:| 
 | Fonte: Autor Próprio |
-
-
  
 
 ## Referências Bibliográficas

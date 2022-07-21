@@ -1,4 +1,4 @@
-# 1. Perfil do Usuário
+# Perfil do Usuário
 
 <p style="text-indent: 20px;text-align: justify;">
     A definição de um perfil de usuário é muito importante
@@ -15,7 +15,7 @@
     utilizada comumente entre estudantes do ensino médio e ensino superior.
 </p>
 
-# 2. Questionário
+## Questionário
 
 <p style="text-indent: 20px;text-align: justify;">
     Sobre o questionário podemos dizer que é um documento pré-impresso em que serão preenchidos os dados e informações, 
@@ -24,20 +24,21 @@
     a fim de criar nossas personas baseadas em dados reais. 
  </p>
  
- ### Resultado Estatístico:
+### Resultado Estatístico:
  
- <img src="../img/questionario/pergunta1.png" style="width:80%, marginTop: 30px"/>
- <img src="../img/questionario/pergunta2.png" style="width:80%, marginTop: 30px"/>
- <img src="../img/questionario/pergunta3.png" style="width:80%, marginTop: 30px"/>
- <img src="../img/questionario/pergunta4.png" style="width:80%, marginTop: 30px"/>
- <img src="../img/questionario/pergunta5.png" style="width:80%, marginTop: 30px"/>
- <img src="../img/questionario/pergunta6.png" style="width:80%, marginTop: 30px"/>
- <img src="../img/questionario/pergunta7.png" style="width:80%, marginTop: 30px"/>
- <img src="../img/questionario/pergunta8.png" style="width:80%, marginTop: 30px"/>
- <img src="../img/questionario/pergunta9.png" style="width:80%, marginTop: 30px"/>
- <img src="../img/questionario/pergunta10.png" style="width:80%, marginTop: 30px"/>
+ <img src="/../img/questionario/pergunta1.png" style="width:80%, marginTop: 30px"/>
+ <img src="/../img/questionario/pergunta2.png" style="width:80%, marginTop: 30px"/>
+ <img src="/../img/questionario/pergunta3.png" style="width:80%, marginTop: 30px"/>
+ <img src="/../img/questionario/pergunta4.png" style="width:80%, marginTop: 30px"/>
+ <img src="/../img/questionario/pergunta5.png" style="width:80%, marginTop: 30px"/>
+ <img src="/../img/questionario/pergunta6.png" style="width:80%, marginTop: 30px"/>
+ <img src="/../img/questionario/pergunta7.png" style="width:80%, marginTop: 30px"/>
+ <img src="/../img/questionario/pergunta8.png" style="width:80%, marginTop: 30px"/>
+ <img src="/../img/questionario/pergunta9.png" style="width:80%, marginTop: 30px"/>
+ <img src="/../img/questionario/pergunta10.png" style="width:80%, marginTop: 30px"/>
 
 Analisando os dados levantados conclui-se que o perfil do usuário que utilizam regularmente a plataforma do CIEE consiste de estudantes que estão cursando o ensino médio com faixa etária dos 14 aos 24 anos. Sendo assim, a equipe direcionará o projeto para esse perfil de usuário que está descrito na tabela 1 logo abaixo.
+
 | Perfil | Estudante |
 |--|:-:|
 | Quantidade de estudantes entre os pesquisados | **100%** |
@@ -48,7 +49,7 @@ Analisando os dados levantados conclui-se que o perfil do usuário que utilizam 
 | Conseguiu agendar entrevista em estágio ou aprendiz | **33,3%** |
 | Conseguiu estágio ou aprendiz | **16,7%** |
 
-Tabela 1 - Perfil do Usuário
+&emsp;&emsp;&emsp;&emsp;&emsp;Tabela 1 - Perfil do Usuário
 
 ## Bibliografia
 

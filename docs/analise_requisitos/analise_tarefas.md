@@ -1,6 +1,6 @@
 # Análise de Tarefas
 
-## Introdução:
+## Introdução
 
 &emsp;&emsp;A analise de tarefas em IHC é utilizada principalmente para buscar um maior entendimento sobre o trabalho dos usuários, como eles o realizam e o porquê. O trabalho então é organizado em objetivos que os usuários necessitam ou querem atingir, com o resultado do trabalho se busca definir um “desempenho satisfatório” para o sistema e seus componentes. Esta analise pode ocorrer em diferentes etapas do desenvolvimento do sistema, seja para uma analise de situação atual, um (re)design de um sistema ou para uma avaliação que inclua uma introdução de um novo sistema.
 
