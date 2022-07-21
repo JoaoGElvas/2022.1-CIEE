@@ -4,7 +4,7 @@ Esta tabela irá mostrar as ferramentas que vamos utilizar ao longo do semestre 
 
 | Ferramentas | Descrição |
 |--- |---|
-| ![image](https://drive.google.com/file/d/1TelByZmv7z_Mu5m_bnUuG-e8vlIiDiQL/view?usp=sharing) | GitHub - Plataforma de versionamento em que iremos armazenar todos os arquivos relacionados ao projeto |
+| ![alt text](2022.1-CIEE/docs/img/img_logos_apps/git.png) | GitHub - Plataforma de versionamento em que iremos armazenar todos os arquivos relacionados ao projeto |
 | ![image](https://drive.google.com/file/d/1rEiUJbLFGyTDSyvHDZogSNdSIkhyu8Sm/view?usp=sharing) | WhatsApp - Ferramenta para a comunicação rápida entre os integrantes |	
 |![image](https://user-images.githubusercontent.com/57445188/178147862-b4a06c60-b4e0-4460-9134-245203b91083.png) | Vscode - Editor de código destinado ao desenvolvimento de aplicações com controle Git incorporado |
 | ![image](https://user-images.githubusercontent.com/57445188/178147892-c642a41e-b9cb-43d3-92f3-1326eb89f7c7.png)| Google Docs - Ferramenta de editor de texto, para a documentação do projeto| 	
