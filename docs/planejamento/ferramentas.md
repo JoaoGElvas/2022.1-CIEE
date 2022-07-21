@@ -11,7 +11,7 @@ Esta tabela irá mostrar as ferramentas que vamos utilizar ao longo do semestre 
 | ![image](https://user-images.githubusercontent.com/57445188/178147820-8df24be8-2a05-42f7-871c-7260f8a6e4ec.png) | Microsoft Teams - Plataforma que vamos usar para gravar a apresentação do projeto |
 | ![image](https://user-images.githubusercontent.com/57445188/178147392-8f909e3b-a303-494b-9e41-010d6a0632b0.png) | Discord - Plataforma em que vamos nos comunicar por chamada de áudio |
 | ![image](https://user-images.githubusercontent.com/57445188/178147775-a37bdb2b-1eb6-4ff7-a9da-947c8f483e54.png)| Lucidchart - Ferramenta case, onde vamos fazer nosso diagrama|
-|![image](https://user-images.githubusercontent.com/57445188/180206504-d426a5de-0105-4e88-b835-272735d15bb1.png)| Google Forms - Ferramento do google, para fazer a realização da pesquisa
+| ![image](https://user-images.githubusercontent.com/57445188/180206928-6027692b-8bfb-4d02-bf64-6dff362e05de.png)| Google Forms - Ferramento do google, para fazer a realização da pesquisa
 
 
 ## Versionamento
