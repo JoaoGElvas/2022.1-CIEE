@@ -55,7 +55,7 @@ Analisando os dados levantados conclui-se que o perfil do usuário que utilizam 
 
 BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador".
  
- ## Versionamento
+## Versionamento
 
 | Data       | Versão | Descrição                                  | Autor(es)      | Revisor(es)  |
 | ---------- | ------ | ------------------------------------------ | -------------- | ------------ |
