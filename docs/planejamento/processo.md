@@ -22,7 +22,7 @@ Em 1999 Deborah Mayhew propôs um ciclo de vida de usabilidade que com uma visã
 
 | ![ciclodevidaMayhew](https://user-images.githubusercontent.com/79341819/178147424-009c3907-5896-4db9-9caf-28af8cc12392.png) |
 |:--:| 
-| *(Imagem 2) Tabela de ativides envolvidas no ciclo de vida de Mayhew - Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.* |
+| *(Imagem 2) Ciclo de vida de Mayhew - Retirado de: BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador". Capítulo 4, página 110.* |
 
 ## Referências Bibliográficas
 BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
