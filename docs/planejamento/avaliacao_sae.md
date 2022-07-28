@@ -48,7 +48,7 @@ canto esquerdo da interface, mas essa mudança é muito discreta e
 tem muita possibilidade de passar despercebido. O site não é
 intuitivo, muito difícil de navegar e nada usual.Na figura 1 abaixo é mostrado o formulário de avaliação feito
 
-| ![4b526088-d373-400e-9376-a07489df8411](https://user-images.githubusercontent.com/78215376/178053516-ea80f4d2-9dec-4bfe-8840-ab55c509f8de.jpg "Site CIEE selecionado pelo grupo" ) |
+| ![WhatsApp Image 2022-07-28 at 16 49 30](https://user-images.githubusercontent.com/78215376/181625314-34fb1447-00d0-41c5-9bcc-8acca6e98e9f.jpeg) |
 |:--:| 
 | *Formulário de avaliação |
 
