@@ -20,4 +20,7 @@ nav:
     - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
     - Personas: analise_requisitos/personas.md
     - Análise de Tarefas: analise_requisitos/analise_tarefas.md
+    - Princípios Gerais do Projeto: analise_requisitos/Principios_projeto.md
+    - Metas de Usabilidade: analise_requisitos/metas_usabilidade.md
+    - Guia de Estilo: analise_requisitos/guia_estilo.md
   - Apresentações: apresentacoes.md
