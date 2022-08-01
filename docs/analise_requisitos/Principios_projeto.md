@@ -3,6 +3,7 @@
 ## Introdução
  Princípios costumam representar objetivos gerais e de alto nível; diretrizes, regras gerais comumente observadas na prática; e padrões, soluções específicas a certos contextos bem delimitados, envolvendo certos usuários desempenhando determinadas tarefas (Mayhew, 1999).
  Os princípios e as diretrizes comumente utilizados em IHC giram em torno dos seguintes tópicos: 
+ 
  - Correspondência com as expectativas dos usuários; 
  - Simplicidade nas estruturas das tarefas; 
  - Equilíbrio entre controle e liberdade do usuário; 

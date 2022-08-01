@@ -4,6 +4,7 @@
 
 ## Metas
   As metas são divididas em 6:
+  
   - Eficácia: é uma meta bastante geral e se refere o quanto um sistema é bom em fazer o que se espera dele.
   - Eficiência: se refere à maneira como o sistema auxilia o usuário na realização de suas tarefas. 
   - Segurança: implica proteger o usuário de condições perigosas e situações indejáveis.
