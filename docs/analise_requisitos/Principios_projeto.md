@@ -22,6 +22,7 @@ Devemos nos certificar de que o usuário consegue determinar os relacionamentos 
 
 ### Simplicidade nas estruturas das tarefas ( Não presente)
 Norman (1988) recomenda simplificar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem. Tarefas desnecessariamente complexas podem ser reestruturadas, em geral utilizando inovações tecnológicas.Nela os  designers  podem  seguir quatro abordagens tecnológicas:
+
 - Manter a tarefa a mesma, mas fornecendo diversas formas de apoio para que o usuários consigam aprender a realizar a tarefa;
 - Usar tecnologia para tornar visível o que seria invisível, melhorando o feedbacke a capacidade do usuário se manter no controle da tarefa;
 - Automatizar a tarefa, mantendo-a igual;
