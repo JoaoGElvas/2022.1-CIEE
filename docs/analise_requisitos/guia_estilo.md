@@ -72,6 +72,36 @@ A principal fonte utilizada pelo site é a **Open Sans**, geralmente no estado R
 
 ### 3.4. Simbolismo
 
+O CIEE possui alguns elementos simbólicos que servem de auxilio ao usuário. Através de icones que representa visualmente a funcionalidade ou serviço
+que será executada ao clicar. Os icones auxiliam no entendimento do conteúdo e podem ser utilizados em conjunto com sua legenda ou sozinhos. Abaixo
+estão sendo apresentadas o icones retirados do site do CIEE.
+
+<p><b>Página principal:</b></p>
+
+|       ![icone-ciee-principal](https://user-images.githubusercontent.com/40144816/182271393-720a0faf-c58d-4e9b-856f-bf691cc3d8b9.png)        | 
+| :-----------------------------------------------------------------: | 
+| Figura 1: Icone página principal (Fonte: https://portal.ciee.org.br) . |
+ 
+<p><b>Rodapé:</b></p>
+
+|      ![icone-ciee-principal-rodapé](https://user-images.githubusercontent.com/40144816/182271470-343c2759-f45b-4f36-929f-43208ed51367.png)  | ![icone-ciee-social-rodapé](https://user-images.githubusercontent.com/40144816/182271484-8861fa96-684c-4ae4-bd01-725041626842.png)                   |
+| :-----------------------------------------------------------------: | -------------------------------------------------------------------------------------------- |
+| Figura 2: Icone página pricipal rodapé (Fonte: https://portal.ciee.org.br) . | Figura 3: Icones das redes sociais (Fonte: https://portal.ciee.org.br). |
+
+
+<p><b>Login:</b></p>
+
+|       ![icone-ciee-login](https://user-images.githubusercontent.com/40144816/182271493-8ad18c05-a3b1-4230-ba26-86079b2e3e37.png)  | 
+| :-----------------------------------------------------------------: | 
+| Figura 4: Icones de login (Fonte: https://portal.ciee.org.br) . |
+
+<p><b>Cadastro:</b></p>
+
+|  ![icone-ciee-cadastro](https://user-images.githubusercontent.com/40144816/182271498-01b17796-a02f-49f0-92f2-a2e5c52f14dc.png) | 
+| :-----------------------------------------------------------------: | 
+| Figura 5: Icones de cadastro (Fonte: https://portal.ciee.org.br) . |
+
+
 ### 3.5. Cores
 
 Tanto a logo quanto o site seguem a paleta de cores demonstrada a seguir na Imagem 6 com seus respectivos códigos.
