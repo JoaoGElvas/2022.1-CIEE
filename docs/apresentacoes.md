@@ -6,7 +6,7 @@
 
 ## 2ª Apresentação - Análise de Requisitos
 
-<iframe width="800" height="400" src="[https://www.youtube.com/embed/xQGyGc9uNY8](https://www.youtube.com/watch?v=_UTmQHznrs0&ab_channel=DaviLima)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="(https://www.youtube.com/watch?v=_UTmQHznrs0&ab_channel=DaviLima)" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Versionamento
 | Versão | Data | Descrição | Autor | Revisor |
