@@ -107,17 +107,17 @@ estão sendo apresentadas o icones retirados do site do CIEE.
 Tanto a logo quanto o site seguem a paleta de cores demonstrada a seguir na Imagem 6 com seus respectivos códigos.
 
 <center> ![cores](https://user-images.githubusercontent.com/78981063/182229934-cde7b5ac-85d7-49b9-b33f-250c647f52a3.png)  
-<small> Imagem 6: Paleta de cores da logo e do site <br> Fonte: Autores </small></center>
+<small> Imagem 11: Paleta de cores da logo e do site <br> Fonte: Autores </small></center>
 
 ### 3.6. Animações
 
-O site possui algumas animações na página inicial, onde as notícias principais atualizam automaticamente (Imagem 7), e na área do estudante, onde ao abrir ou fechar o menu ele desliza pela tela (Imagem 8).
+O site possui algumas animações na página inicial, onde as notícias principais atualizam automaticamente (Imagem 12), e na área do estudante, onde ao abrir ou fechar o menu ele desliza pela tela (Imagem 13).
 
 <center> ![gif1CIEE](https://user-images.githubusercontent.com/78981063/182242739-778c0060-300f-40e7-b7f0-6e3106b88be4.gif)  
-<small> Imagem 11: Animação de notícias <br> Fonte: Site CIEE </small></center>
+<small> Imagem 12: Animação de notícias <br> Fonte: Site CIEE </small></center>
 
 <center> ![gif2CIEE](https://user-images.githubusercontent.com/78981063/182245475-9a9fe23c-3ccf-49cf-b7cc-cb1b6a20657d.gif)  
-<small> Imagem 12: Animação do menu <br> Fonte: Site CIEE </small></center>
+<small> Imagem 13: Animação do menu <br> Fonte: Site CIEE </small></center>
 
 ## 4. Elementos de Interação
 
@@ -150,14 +150,14 @@ Para chegar à pagina de perfil de usuário é necessário primeiramente acessar
 **Links em formatos de imagem**
 
 <center> ![blog](https://user-images.githubusercontent.com/79341819/182255719-5e3bcaea-eedc-49ce-91f7-11cb4131ac93.png)  
-<small> Imagem 13: links em imagem da pagina inicial <br> Fonte: Site CIEE </small></center>
+<small> Imagem 14: links em imagem da pagina inicial <br> Fonte: Site CIEE </small></center>
 
 - Através dos links é possivel navegar por noticias divulgas recentes.
 
 **Links em formato textual**
 
 <center> ![rodape](https://user-images.githubusercontent.com/79341819/182255729-898de532-64ca-4037-b4d9-082faca2c769.png)  
-<small> Imagem 14: links em texto da pagina inicial <br> Fonte: Site CIEE </small></center>
+<small> Imagem 15: links em texto da pagina inicial <br> Fonte: Site CIEE </small></center>
 
 - Os links textuais compõem o rodapé do portal, funcionando primordialmente como suporte ao usuário.
 
@@ -185,7 +185,7 @@ A janela de perfil de usuário possui a função primordial do projeto, e ela é
 **painel com informaçoes sobre as vagas**
 
 <center> ![vagas](https://user-images.githubusercontent.com/79341819/182258578-601d229b-459f-44a8-afe7-8776fb1bb0f6.png)  
-<small> Imagem 15: painel com informações sobre vagas do usuário <br> Fonte: Site CIEE </small></center>
+<small> Imagem 16: painel com informações sobre vagas do usuário <br> Fonte: Site CIEE </small></center>
 
 - Através do painel é possivel checar as vagas recebidas.
 - Mantém o padrão de cores do site.
@@ -193,7 +193,7 @@ A janela de perfil de usuário possui a função primordial do projeto, e ela é
 **painel com informaçoes sobre o perfil do usuário**
 
 <center> ![painel](https://user-images.githubusercontent.com/79341819/182258524-cae5046d-d2fa-4d5a-90ef-37b5ba3b1a05.png)  
-<small> Imagem 16: painel com informações sobre as pendencias de perfil do usuário <br> Fonte: Site CIEE </small></center>
+<small> Imagem 17: painel com informações sobre as pendencias de perfil do usuário <br> Fonte: Site CIEE </small></center>
 
 - Através do painel é possivel checar as pendencias do perfil do usuário.
 - Mantém o padrão de cores do site.
@@ -201,7 +201,7 @@ A janela de perfil de usuário possui a função primordial do projeto, e ela é
 **painel com links de acesso rapido ao usuário**
 
 <center> ![acessora](https://user-images.githubusercontent.com/79341819/182258478-d12e8b0a-0459-48c8-826b-70204e2e1643.png)  
-<small> Imagem 17: painel com links de acesso rapido do perfil <br> Fonte: Site CIEE </small></center>
+<small> Imagem 18: painel com links de acesso rapido do perfil <br> Fonte: Site CIEE </small></center>
 
 - Através do painel é possivel acessar links de acesso rapido do perfil.
 - Mantém o padrão de cores do site.
@@ -209,7 +209,7 @@ A janela de perfil de usuário possui a função primordial do projeto, e ela é
 **painel de video do usuário**
 
 <center> ![vdeo](https://user-images.githubusercontent.com/79341819/182258587-2b320acf-c573-489f-a89c-51788e0a6bf3.png)  
-<small> Imagem 18: painel para adicionar o video de perfil de usuário <br> Fonte: Site CIEE </small></center>
+<small> Imagem 19: painel para adicionar o video de perfil de usuário <br> Fonte: Site CIEE </small></center>
 
 - Através do painel é possivel adicionar ou remover um video de perfil de usuário.
 - Mantém o padrão de cores do site.
@@ -222,19 +222,19 @@ O site segue o padrão de apresentar a informação mais importante atual no cen
 
 ### 5.1 Preenchimento de Campos
 
-Os campos de preenchimento são dispostos majoritariamente nas páginas de login e de perfil, onde são relacionados ao preenchimento de informações do usuário, como no exemplo da Imagem 19.
+Os campos de preenchimento são dispostos majoritariamente nas páginas de login e de perfil, onde são relacionados ao preenchimento de informações do usuário, como no exemplo da Imagem 20.
 
 <center> ![preenchimentocampos](https://user-images.githubusercontent.com/78981063/182255726-cead6105-c5dd-4c98-b847-045992f66407.png)  
-<small> Imagem 19: Campos de preenchimento de informações pessoais <br> Fonte: Site CIEE </small></center>
+<small> Imagem 20: Campos de preenchimento de informações pessoais <br> Fonte: Site CIEE </small></center>
 
 ### 5.2 Ativação
 É possivel verificar a ativação de um botão através das seguintes imagens:
 
 <center> ![2](https://user-images.githubusercontent.com/79341819/182262637-1f54be36-ac7a-450c-aa5b-f2ccd485a779.png)       
-<small> Imagem 20: Campos de preenchimento de informações pessoais <br> Fonte: Site CIEE </small></center>
+<small> Imagem 21: Campos de preenchimento de informações pessoais <br> Fonte: Site CIEE </small></center>
 
 <center>![1](https://user-images.githubusercontent.com/79341819/182262640-86e085a2-7350-4337-9ca1-b826d3e9dddf.png)  
-<small> Imagem 21: Campos de preenchimento de informações pessoais <br> Fonte: Site CIEE </small></center>
+<small> Imagem 22: Campos de preenchimento de informações pessoais <br> Fonte: Site CIEE </small></center>
 
 
 ## 6. Vocabulário e Padrões
@@ -245,13 +245,13 @@ Por se tratar de uma plataforma para jovens ainda em processo de aprendizado, o 
 
 ### 6.2 Sequência de diálogos
 
-Após editar informações e clicar em salvar aparece um pop-out de com uma menssagem de sucesso ou um aviso caso a operação não tenha sido efetuada, como demonstra as Figuras 22 e 23.
+Após editar informações e clicar em salvar aparece um pop-out de com uma menssagem de sucesso ou um aviso caso a operação não tenha sido efetuada, como demonstra as Figuras 23 e 24.
 
 <center> ![sucesso](https://user-images.githubusercontent.com/78981063/182261666-81f3cce1-e28d-4042-88f0-de4ab7fb7ea4.png)  
-<small> Imagem 22: Mensagem de sucesso após edição de campos <br> Fonte: Site CIEE </small></center>
+<small> Imagem 23: Mensagem de sucesso após edição de campos <br> Fonte: Site CIEE </small></center>
 
 <center> ![aviso](https://user-images.githubusercontent.com/78981063/182261671-76b89a61-e579-4f9d-81bc-ed1a9501350b.png)  
-<small> Imagem 23: Mensagem de aviso caso não seja possível atualizar os campos <br> Fonte: Site CIEE </small></center>
+<small> Imagem 24: Mensagem de aviso caso não seja possível atualizar os campos <br> Fonte: Site CIEE </small></center>
 
 ## 7. Referências Bibliográficas
 BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
@@ -260,3 +260,4 @@ BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
 |Versão	| Data	| Descrição |	Autor(s)	| Revisor(s)|
 |--------|----|-----------|-------|---------|
 | 1.0 |	01/08/2022	| Criação do artefato | Davi Lima e Karla Chaiane | Guilherme Nishimura |
+| 1.1 |	02/08/2022	| Correção da enumeração das imagens | Davi Lima | Karla Chaiane |
