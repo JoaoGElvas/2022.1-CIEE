@@ -33,15 +33,15 @@ Ponto de controle com foco em identificar nosso usuário, fazer a análise de ta
 | Gravação do video de apresentação | 20/07/2022         | Todos os integrantes            | Todos os integrantes            |
 
 
-## 3º Ponto de Controle - (01/08)
+## 3º Ponto de Controle - [Apresentação do projeto etapa 3]() (01/08)
 
 Ponto de controle focado em metas de usabilidade, guias de estilo.
 
 | Tarefa                       | Data limite de entrega | Autor(es)                       | Revisor(es)                     |
 | ---------------------------- | ---------------------- | ------------------------------- | ------------------------------- |
-| Princípios gerais de projeto | 01/08/2022             | A Definir  | A Definir |
-| Metas de usabilidade         | 01/08/2022            | A Definir | A Definir    |
-| Guia de estilo               | 01/08/2022             | A Definir     | A Definir  |
+| Princípios gerais de projeto | 01/08/2022             | Guilherme Nishimura             | Karla Chaiane |
+| Metas de usabilidade         | 01/08/2022             | Pedro Henrique                  | Luis Henrique  |
+| Guia de estilo               | 01/08/2022             |  Davi Lima, Karla Chaiane e Luis Henrique    | Guilherme Nishimura  |
 
 ## 4º Ponto de Controle - (11/08)
 
@@ -101,3 +101,5 @@ Apresentação final do projeto da disciplina
 | 09/07/2022 | 1.0    | Criação do documento                       | Luis Henrique  | Todos os integrantes |
 | 10/07/2022 | 1.1    | Adicionando informações sobre o cronograma | Luis Henrique  | Todos os integrantes |
 | 20/07/2022 | 1.2    | Adicionando informações sobre o cronograma | Davi Lima      | Todos os integrantes |
+| 01/08/2022 | 1.3    | Inserir elementos da entrega - etapa 3 | Luis Henrique    | Todos os integrantes |
+
