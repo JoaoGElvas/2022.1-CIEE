@@ -4,7 +4,7 @@ O cronograma tem como objetivo definir um planejamento das tarefas entregues e s
 
 Com base no plano de ensino e as entregas definidas pelo professor, nosso grupo organizou o cronograma em 7 pontos de controle além da apresentação final:
 
-## 1º Ponto de Controle - [Apresentação do projeto etapa 1](/../apresentacoes/apresentacao1.md) (11/07)
+## 1º Ponto de Controle - Apresentação do projeto etapa 1 (11/07)
 
 Ponto de controle focado em avaliar o sistema, entender o problema, definir o escopo e fazer o planejamento da equipe e do projeto.
 
@@ -20,7 +20,7 @@ Ponto de controle focado em avaliar o sistema, entender o problema, definir o es
 | Planejamento do projeto            | 11/07/2022             | Todos os integrantes       | Todos os integrantes        |
 | Gravação do video de apresentação  | 11/07/2022             | Todos os integrantes       | Todos os integrantes        |
 
-## 2º Ponto de Controle - [Apresentação do projeto etapa 2]() (20/07)
+## 2º Ponto de Controle - Apresentação do projeto etapa 2 (20/07)
 
 Ponto de controle com foco em identificar nosso usuário, fazer a análise de tarefas, personas.
 
@@ -33,7 +33,7 @@ Ponto de controle com foco em identificar nosso usuário, fazer a análise de ta
 | Gravação do video de apresentação | 20/07/2022         | Todos os integrantes            | Todos os integrantes            |
 
 
-## 3º Ponto de Controle - [Apresentação do projeto etapa 3]() (01/08)
+## 3º Ponto de Controle - Apresentação do projeto etapa 3 (01/08)
 
 Ponto de controle focado em metas de usabilidade, guias de estilo.
 
