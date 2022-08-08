@@ -24,8 +24,8 @@ O avaliador terá que está ciente das tarefas estudadas pelo grupo que são ela
 
 * Se candidatar a uma vaga de estágio,que consiste nas seguintes paginas :
 
-    - Pagina login
-    - Vagas disponiveis
+    - Pagina login;
+    - Vagas disponiveis;
 
 ## Conclusão
 
