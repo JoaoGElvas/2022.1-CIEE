@@ -20,7 +20,7 @@ Com base no [ perfil de usuário ](../../analise_requisitos/perfil_usuario.md), 
 Esse usuário será um estudante de ensino médio que necessita do auxilio do site CIEE
 
 ## Tarefas 
-O avaliador terá que está ciente das tarefas estudadas pelo grupo que são elas:
+O entrevistador terá que está ciente das tarefas estudadas pelo grupo que são elas:
 
 * Se candidatar a uma vaga de estágio,que consiste nas seguintes paginas :
 
