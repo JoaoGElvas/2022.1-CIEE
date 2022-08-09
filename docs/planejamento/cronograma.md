@@ -18,7 +18,8 @@ Ponto de controle focado em avaliar o sistema, entender o problema, definir o es
 | Processo de Design                 | 11/07/2022             | Davi Lima                  | Karla Chaiane               |
 | Planejamento da equipe             | 11/07/2022             | Todos os integrantes       | Todos os integrantes        |
 | Planejamento do projeto            | 11/07/2022             | Todos os integrantes       | Todos os integrantes        |
-| Gravação do video de apresentação  | 11/07/2022             | Todos os integrantes       | Todos os integrantes        |
+| Gravação do video de apresentação | 11/07/2022        | Todos os integrantes            | Todos os integrantes         |
+| Edição do video de apresentação | 11/07/2022          | Guilherme Nishimura             | Karla Chaiane e Davi Lima    |
 
 ## 2º Ponto de Controle - Apresentação do projeto etapa 2 (20/07)
 
@@ -30,7 +31,8 @@ Ponto de controle com foco em identificar nosso usuário, fazer a análise de ta
 | Personas                      | 20/07/2022             | Guilherme Nishimura             |               Karla Chaiane     |
 | Análise de tarefas do usuário | 20/07/2022             | Davi Lima e Karla Chaiane       |            Guilherme Nishimura  |
 | Aspectos Éticos de Pesquisa Envolvendo Pessoas         | 20/07/2022 | Pedro Henrique     |                   Luis Henrique |
-| Gravação do video de apresentação | 20/07/2022         | Todos os integrantes            | Todos os integrantes            |
+| Gravação do video de apresentação | 20/07/2022        | Todos os integrantes            | Todos os integrantes            |
+| Edição do video de apresentação | 20/07/2022          | Davi Lima            | Karla Chaiane e Guilherme Nishimura        |
 
 
 ## 3º Ponto de Controle - Apresentação do projeto etapa 3 (01/08)
@@ -41,7 +43,9 @@ Ponto de controle focado em metas de usabilidade, guias de estilo.
 | ---------------------------- | ---------------------- | ------------------------------- | ------------------------------- |
 | Princípios gerais de projeto | 01/08/2022             | Guilherme Nishimura             | Karla Chaiane |
 | Metas de usabilidade         | 01/08/2022             | Pedro Henrique                  | Luis Henrique  |
-| Guia de estilo               | 01/08/2022             |  Davi Lima, Karla Chaiane e Luis Henrique    | Guilherme Nishimura  |
+| Guia de estilo               | 01/08/2022             |  Davi Lima, Karla Chaiane e Luis Henrique    | Guilherme Nishimura |
+| Gravação do video de apresentação | 01/08/2022        | Todos os integrantes            | Todos os integrantes            |
+| Edição do video de apresentação | 01/08/2022          | Davi Lima            | Karla Chaiane e Guilherme Nishimura        |
 
 ## 4º Ponto de Controle - (11/08)
 
@@ -49,10 +53,13 @@ Ponto de controle focado na avaliação do storyboard, avaliação da análise d
 
 | Tarefa                                                                   | Data limite de entrega | Autor(es)                      | Revisor(es)    |
 | ------------------------------------------------------------------------ | ---------------------- | ------------------------------ | -------------- |
-| Planejamento da avaliação do Storyboard                                  | 10/08/2022             | A Definir | A Definir  |
-| Planejamento do relato dos resultados da avaliação do Storyboard         | 10/08/2022             | A Definir                 | A Definir |
-| Planejamento da Avaliação da Análise de tarefas                          | 10/08/2022             | A Definir                 | A Definir    |
-| Planejamento do relato dos resultados da avaliação do Análise de tarefas | 10/08/2022             | A Definir   | A Definir |
+| Criação da pagina do Storyboard                                          | 08/08/2022        | Karla Chaiane                  | Davi Lima      |
+| Planejamento da avaliação do Storyboard                                  | 08/08/2022        | Davi Lima                      | Karla Chaiane  |
+| Planejamento do relato dos resultados da avaliação do Storyboard         | 08/08/2022        | Guilherme Nishimura            | Pedro Henrique       |
+| Planejamento da Avaliação da Análise de tarefas                          | 08/08/2022        | Pedro Henrique                 | Guilherme Nishimura  |
+| Planejamento do relato dos resultados da avaliação do Análise de tarefas | 08/08/2022        | Pedro Henrique                 | Guilherme Nishimura  |
+| Gravação do video de apresentação                                        | 08/08/2022        | Davi, Guilherme, Karla e Pedro      | Todos os integrantes |
+| Edição do video de apresentação                                          | 08/08/2022        | Davi Lima            | Karla Chaiane e Guilherme Nishimura |
 
 ## 5º Ponto de Controle - (17/08)
 
