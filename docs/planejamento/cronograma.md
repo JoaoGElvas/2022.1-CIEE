@@ -47,7 +47,7 @@ Ponto de controle focado em metas de usabilidade, guias de estilo.
 | Gravação do video de apresentação | 01/08/2022        | Todos os integrantes            | Todos os integrantes            |
 | Edição do video de apresentação | 01/08/2022          | Davi Lima            | Karla Chaiane e Guilherme Nishimura        |
 
-## 4º Ponto de Controle - (11/08)
+## 4º Ponto de Controle - Apresentação do projeto etapa 4 (08/08)
 
 Ponto de controle focado na avaliação do storyboard, avaliação da análise de tarefas.
 
