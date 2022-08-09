@@ -21,13 +21,14 @@ dependendo das suas limitações e necessidades.
  
 ## Conclusão
   Feito o relato, os avaliadores devem documentar os resultados que estejam em concordância com o livro de estudo da disciplina onde os tais tópicos são abordados:
-   - os objetivos e escopo da avaliação;
-   - a forma como a avaliação foi realizada (método de avaliação empregado);
-   - o número e o perfil de usuários e avaliadores que participaram da avaliação;
-   - um sumário dos dados coletados, incluindo tabelas e gráficos;
-   - um relato da interpretação e análise dos dados;
-   - uma lista dos problemas encontrados;
-   - um planejamento para o reprojeto do sistema. 
+  
+  - os objetivos e escopo da avaliação;
+  - a forma como a avaliação foi realizada (método de avaliação empregado);
+  - o número e o perfil de usuários e avaliadores que participaram da avaliação;
+  - um sumário dos dados coletados, incluindo tabelas e gráficos;
+  - um relato da interpretação e análise dos dados;
+  - uma lista dos problemas encontrados;
+  - um planejamento para o reprojeto do sistema. 
   
 ## Referências Bibliograficas
 BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador".
