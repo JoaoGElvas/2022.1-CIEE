@@ -106,7 +106,8 @@ Apresentação final do projeto da disciplina
 | Data       | Versão | Descrição                                  | Autor(es)      | Revisor(es)  |
 | ---------- | ------ | ------------------------------------------ | -------------- | ------------ |
 | 09/07/2022 | 1.0    | Criação do documento                       | Luis Henrique  | Todos os integrantes |
-| 10/07/2022 | 1.1    | Adicionando informações sobre o cronograma | Luis Henrique  | Todos os integrantes |
-| 20/07/2022 | 1.2    | Adicionando informações sobre o cronograma | Davi Lima      | Todos os integrantes |
+| 10/07/2022 | 1.1    | Inserir elementos da entrega - etapa 1 | Luis Henrique  | Todos os integrantes |
+| 20/07/2022 | 1.2    | Inserir elementos da entrega - etapa 2 | Davi Lima      | Todos os integrantes |
 | 01/08/2022 | 1.3    | Inserir elementos da entrega - etapa 3 | Luis Henrique    | Todos os integrantes |
+| 08/08/2022 | 1.3    | Inserir elementos da entrega - etapa 4 | Luis Henrique    | Todos os integrantes |
 
