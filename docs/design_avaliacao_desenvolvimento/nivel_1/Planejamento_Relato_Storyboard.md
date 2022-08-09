@@ -3,11 +3,11 @@
 ## Introdução
 Este documento abordará o planejamento da equipe a respeito dos relatos dos resultados do storyboard.
 
-Ele terá os metodos utilizados,juntamente com os participantes e as tarefas .
+Ele terá os metodos utilizados, juntamente com os participantes e as tarefas.
 
 ## Entrevista
 
-O metodo a ser utilizado pelo grupo para coletar dados nessa etapa  será a entrevista.
+O método a ser utilizado pelo grupo para coletar dados nessa etapa será a entrevista.
 A entrevista é uma das técnicas mais utilizadas de coleta de dados e levantamento de requisitos. Trata-se
 de uma conversa guiada por um roteiro de perguntas ou tópicos, na qual um entrevistador busca obter
 informação de um entrevistado (Seidman, 2019). Quando há mais de um entrevistado, costumamos chamar
@@ -17,19 +17,19 @@ dependendo das suas limitações e necessidades.
 ### Participantes a serem entrevistados
 
 Com base no [ perfil de usuário ](../../analise_requisitos/perfil_usuario.md), será escolhida um usuário a ser entrevistado.
-Esse usuário será um estudante de ensino médio que necessita do auxilio do site CIEE
+Esse usuário será um estudante de ensino médio que necessita do auxilio do site CIEE.
 
 ## Tarefas 
 O entrevistador terá que está ciente das tarefas estudadas pelo grupo que são elas:
 
-* Se candidatar a uma vaga de estágio,que consiste nas seguintes paginas :
+* Se candidatar a uma vaga de estágio, que consiste nas seguintes páginas :
 
-    - Pagina login;
-    - Vagas disponiveis;
+    - Página login;
+    - Vagas disponíveis;
 
 ## Conclusão
 
-Feita o relato os avaliadores devem documentar os resultados que estejam em concordancia com o livro de estudo da disciplina onde tais tópicos são abordados:
+Feita o relato os avaliadores devem documentar os resultados que estejam em concordância com o livro de estudo da disciplina onde tais tópicos são abordados:
 
 - os objetivos e escopo da avaliação;
 - a forma como a avaliação foi realizada (método de avaliação empregado);
@@ -47,6 +47,7 @@ BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador".
 | Data       | Versão | Descrição                                  | Autor(es)      | Revisor(es)  |
 | ---------- | ------ | ------------------------------------------ | -------------- | ------------ |
 | 08/08/2022 | 1.0    | Criação do documento                       | Guilherme Nishimura da Silva  | Pedro Henrique|
+| 08/08/2022 | 2.0    | Correção de erros                       | Guilherme Nishimura da Silva  | Pedro Henrique|
 
 
 
