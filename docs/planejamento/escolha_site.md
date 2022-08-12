@@ -3,10 +3,10 @@
 ## Escolha do site:
 | **SITES**        | **INTEGRANTES**     |
 |------------------|---------------------|
-| MOJ              | PEDRO HENRIQUE      |
+| SAE              | PEDRO HENRIQUE      |
 | OJOGOS           | LUIS HENRIQUE       |
 | CIEE             | DAVI LIMA           |
-| SAE              | KARLA CHAIANE       |
+| COVID.SAUDE           | KARLA CHAIANE       |
 | GOVERNO DE PIAUÍ | GUILHERME NISHIMURA |
 
 Para o projeto foram avaliados sites acima para que após a análise foi filtrado em apenas um. 
