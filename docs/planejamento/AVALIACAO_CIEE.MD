@@ -74,6 +74,10 @@ possam causar algum tipo de desconforto ao usuário.
 
 ### 4 - Avaliar, interpretar e apresentar os dados
 
-| ![Imagem1](https://user-images.githubusercontent.com/78215376/184437955-ade3fa05-91c4-4eef-92ab-eeb87139f24d.png) |
+| ![image](https://user-images.githubusercontent.com/78215376/184886305-9f3e3f4e-e248-449b-9ce3-2a3316668840.png) |
 |:--:| 
 | *Formulário de avaliação |
+
+Ao se completar a analise comportamental não é informado ao usuário que ouve sucesso em completa-la, isto também ocorre ao completar outras tarefas do menu, podendo causar confusão ao usuário, esta tarefa fere a heurística 1 – visibilidade do estado do sistema. 
+ 
+
