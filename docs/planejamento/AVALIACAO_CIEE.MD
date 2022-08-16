@@ -4,7 +4,7 @@
 Segue o planejamento e avaliação realizado no site SAE
 
 
-## Governo de Piauí
+## CIEE
 
 ### Planejamento
 
@@ -79,5 +79,52 @@ possam causar algum tipo de desconforto ao usuário.
 | *Formulário de avaliação |
 
 Ao se completar a analise comportamental não é informado ao usuário que ouve sucesso em completa-la, isto também ocorre ao completar outras tarefas do menu, podendo causar confusão ao usuário, esta tarefa fere a heurística 1 – visibilidade do estado do sistema. 
+
+| ![image](https://user-images.githubusercontent.com/78215376/184900102-926199ca-2105-4793-b281-42e939a2d329.png) |
+|:--:| 
+| *Formulário de avaliação |
+
+
+| ![image](https://user-images.githubusercontent.com/78215376/184900279-65f2beda-e857-429f-ad3e-3a15df457563.png) |
+|:--:| 
+| *Formulário de avaliação |
+
+| ![image](https://user-images.githubusercontent.com/78215376/184900408-4a654ea2-2596-4a4d-a80a-2e062dcc5e05.png) |
+|:--:| 
+| *Formulário de avaliação |
+
+É possível, através do menu principal, encontrar vagas disponíveis, porém ao procurar a mesma vaga na lista de “Todas vagas” presente na tela de perfil, a vaga não aparece. Nesta tela também não é possível voltar a tela anterior ao clicar no botão voltar. Esta tarefa fere as heurísticas de controle e liberdade do usuário, consistência e padronização e ajude os usuários a reconhecerem, diagnosticarem e se recuperarem de erros. 
+
+| ![image](https://user-images.githubusercontent.com/78215376/184900786-ef764974-bedc-4c1d-8104-12c4a09c459f.png) |
+|:--:| 
+| *Formulário de avaliação |
+
+
+| ![image](https://user-images.githubusercontent.com/78215376/184900973-c9b0cccc-4732-48fc-bef3-d91c83864297.png) |
+|:--:| 
+| *Formulário de avaliação |
+
+Ao clicar em informes de rendimento, o usuário é redirecionado a uma pagina em branco com a mensagem acima, isto fere a heurística de flexibilidade e eficiência de uso. 
+
+
+| ![image](https://user-images.githubusercontent.com/78215376/184901228-74edb2db-45e9-4ab1-a6ff-77f7bd3e6bfd.png) |
+|:--:| 
+| *Formulário de avaliação |
+
+ |![image](https://user-images.githubusercontent.com/78215376/184901371-62329c5b-e05e-4576-8423-6daf78bf0aa5.png)|
+|:--:| 
+| *Formulário de avaliação |
+
+O rodapé da pagina apresenta 3 campos com disponibilidade para sem clicados, porém, apenas o campo “Politica de Privacidade” funciona corretamente, isto fere as heurísticas de prevenção de erros e de ajuda e documentação.
+
+ |![image](https://user-images.githubusercontent.com/78215376/184901658-e2baf48e-35e6-4028-9c86-2a4ad90f7292.png)|
+|:--:| 
+| *Formulário de avaliação |
+
+
+## 5	– Conclusão 
  
+Com os dados coletados, é possível perceber que o sistema apresenta falhas pontuais e falhas mais graves que impactam de forma negativa na experiencia do usuário, porém, em geral o CIEE é um sistema que fornece uma boa experiencia ao usuário, por seguir em grande parte as heurísticas de Nielsen. 
+
+
 
