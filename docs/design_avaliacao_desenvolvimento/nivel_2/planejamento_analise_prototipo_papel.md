@@ -54,7 +54,7 @@ A equipe deverá realizar um teste piloto que consiste em aplicar um teste aplic
 A equipe do ciee deseja obter as respostas para os seguintes pontos:
 
 - Saber  a experiencia do usuário.
-- Saber os pontos positivos e negativas da expereriencia do usuário.
+- Saber os pontos positivos e negativos da expereriencia do usuário.
 - Problemas encontrados.
 - Gravidade dos problemas encontrados.
 
