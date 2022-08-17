@@ -32,10 +32,13 @@ Serão escolhidos os participantes com base no [ perfil de usuário ](../../anal
 
 ### 2.2 Termo de Consentimento
 
-Segue o termo de consetimento :
+Segue o termo de consetimento na figura 1 abaixo :
 
 
 ![termo](https://user-images.githubusercontent.com/79341819/183318488-11b86aaf-f904-4c59-a8a2-be5cb7556fd3.png)
+
+Figura 1:termo de consentimento
+
 
 ### 2.3 Teste Piloto
 
