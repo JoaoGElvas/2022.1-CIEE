@@ -32,7 +32,7 @@ Serão escolhidos os participantes com base no [ perfil de usuário ](../../anal
 
 ### 2.2 Termo de Consentimento
 
-Conforme definido no framework D.E.C.I.D.E. é necessário lidar com aspectos éticos, para tanto foi elaborado o termo de consentimento a seguir:
+Segue o termo de consetimento :
 
 
 ![termo](https://user-images.githubusercontent.com/79341819/183318488-11b86aaf-f904-4c59-a8a2-be5cb7556fd3.png)
