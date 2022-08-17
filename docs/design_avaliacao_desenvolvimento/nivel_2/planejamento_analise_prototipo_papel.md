@@ -1,17 +1,17 @@
-# Planjamento da análise do protótipo de papel
+# Planejamento da Avaliação do Protótipo de Papel
 ## 1. Introdução
 
-As avaliações de IHC, são muito importantes para o aprimoramento/atualização do produto ou sistema. Dentre as diversas formas de avaliar, no contexto de prototipação em papel; entramos em um tipo de avaliação conhecida como avaliação por observação que permite extrair dados enquanto os participantes realizam as atividade com ou sem apoio de uma tecnologia computacional. Complementar aos métodos de inspeção que preve potenciais problemas, os métodos em questão são muito importantes para identificar problemas reais enfrentados pelos participantes.
+Neste arquivo iremos abordar quais metodos,perfis e tarefas a equipe irá utilizar para a avaliação de Protótipo de papel.
 
-Alguns métodos para avaliação por observação:
+Protótipo de papel é avaliar a usabilidade de um design de IHC
+representado em papel, através de simulações de uso com a participação de potenciais usuários. Simular o
+uso em papel é um modo rápido e barato de identificar problemas de usabilidade antes mesmo de construir
+uma solução de IHC executável. Eles podem ser  representações de interfaces gráficas com diferentes níveis de fidelidade, desde um wireframe desenhado à mão em pequenos pedaços de papel – por exemplo, para representar esquematicamente as telas de um aplicativo de celular – até uma embalagem de sabonete com detalhes finais de texto e cores
 
-- Teste de usabilidade
-- Método de avaliação de comunicabilidade
-- Prototipação em papel
 
 ## 2. Metodologia
 
-O método de avaliação que iremos utilizar será o método de prototipação em papel. Iremos simular a utilização do site do CIEE por meio de um protótipo em papel, e iremos observar o comportamento dos usuários, que por meio de gestos, falas ou escritas, manifestam como desejam interagir com o sistema. Os perfis utilizados para a avaliação serão 2: o de um policial militar e um usuário externo.
+As atividades feitas estão na tabela abaixo:
 
 
 | Atividade | Tarefas |
@@ -21,71 +21,44 @@ O método de avaliação que iremos utilizar será o método de prototipação e
 | Consolidação dos Resultados | Priorizar a correção dos problemas não resolvidos<br>Sugerir correções |
 | Relato dos Resultados | Relatar os problemas encontrados e sugestões de correção |
 
+Tabela 1: Atividades do método de avaliação heurística, retiradas do livro Interação Humano-Computador e Experiência do usuário, da Simone Barbosa, página 225.
+
+
+### 2.1 Participantes
+Serão escolhidos os participantes com base no [ perfil de usuário ](../../analise_requisitos/perfil_usuario.md) :
+
+* Aluno do ensino médio que busca oportunidade de emprego no atráves do CIEE.
+
+
+### 2.2 Termo de Consentimento
+
+Conforme definido no framework D.E.C.I.D.E. é necessário lidar com aspectos éticos, para tanto foi elaborado o termo de consentimento a seguir:
+
+
+![termo](https://user-images.githubusercontent.com/79341819/183318488-11b86aaf-f904-4c59-a8a2-be5cb7556fd3.png)
+
+### 2.3 Teste Piloto
+
+A equipe deverá realizar um teste piloto que consiste em aplicar um teste aplicado antes dele entrar em contato com os sujeitos delimitados para o estudo.
+
+
+
 ## 3. Tarefas para os participantes
 
-### Atividade 1 : Acessar contracheque
+* Cadastro
+* Login
+* Candidatar para uma vaga
 
-#### Tarefas a serem realizadas
+## 4. Conclusão
 
-- Colocar
+A equipe do ciee deseja obter as respostas para os seguintes pontos:
 
-#### Dados necessários (Público interno)
+- Saber  a experiencia do usuário.
+- Saber os pontos positivos e negativas da expereriencia do usuário.
+- Problemas encontrados.
+- Gravidade dos problemas encontrados.
 
-- colocar
 
-#### Caminhos de interação
-
-- colocar
-
----
-
-### Atividade 2 : Realizar login
-
-#### Tarefas a serem realizadas
-
-- colocar
-
-#### Dados necessários (Público interno)
-
-- colocar
-#### Caminhos de interação
-
-- colocar
-
----
-
-### Atividade 3 : Acessar portal de notícias
-
-#### Tarefas a serem realizadas
-
-- Acessar portal de notícias da policia militar
-
-#### Caminhos de interação
-
-- Entrar no site -> Acessar aba "Público Externo" -> Acessar notícias da policia militar
-
----
-
-### Atividade 4 : Utilizar sistema de busca
-
-#### Tarefas a serem realizadas
-
-- Utilizar barra de pesquisa do site
-
-#### Caminhos de interação
-
-- Entrar no site -> Acessar barra de pesquisa -> Executar uma busca
-
-## 4. Objetivos
-
-- O usuário se sente confortável com a interface ?
-- Quais problemas de IHC dificultam ou impedem o usuário de executar as tarefas ?
-- Qual a gravidade dos problemas encontrados ?
-- Os perfis de público interno (Policiais Militares) se sente confortável com as interfaces internas do sistema ? (Contra Cheque e Login)
-
-## 5. Conclusão
-
-Ao final da avaliação, nosso protótipo de papel será modificado de acordo com as experiências do usuário e os dados coletados. Para isto, iremos dar ênfase na interação do usuário com o protótipo, com a meta de alcançar nosso objetivos anteriormente listados.
 
 ## 6. Referências
 
@@ -97,3 +70,4 @@ Ao final da avaliação, nosso protótipo de papel será modificado de acordo co
 | Versão | Data       | Descrição                      | Autor(es)                   | Revisor(es)                 |
 | ------ | ---------- | ------------------------------ | --------------------------- | --------------------------- |
 | 1.0    | 16/08/2022 | Criação do documento           | Guilherme Nishimura e Pedro Henrique             | Guilherme Nishimura e Pedro Henrique           |
+| 1.1    | 17/08/2022 | Adição de mais informações ao documento           | Guilherme Nishimura e Pedro Henrique             | Guilherme Nishimura e Pedro Henrique           |
