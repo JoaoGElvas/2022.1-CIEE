@@ -16,7 +16,7 @@ Para a confecção do storyboard foi utilizada a ferramenta online [StoryboardTh
 No storyboard representado na Imagem 1 são retratados dois personagens, Francisco e Toninha, em um ambiente de estudo, onde Toninha demonstra interesse por uma vaga por estágio e Francisco sugere a plataforma CIEE. Porém, ao tentar preencher seu perfil e se candidatar a uma vaga, Toninha tem dificuldade em completar todas as etapas e consequentemente ao achar uma vaga.
 
 <center>*Figura 1: Storyboard das tarefas de Preencher Perfil e Candidatar a Vagas*
-![naohavagas](https://user-images.githubusercontent.com/79341819/183315763-9512b127-b73b-4359-bb79-1b53e5a2ec80.png)  
+![storyboard](https://user-images.githubusercontent.com/79341819/185278896-cd3a662f-5f10-4c2e-9301-322bce657da7.png)  
 <small>Fonte: Autoria própia, feito com a ferramenta StoryboardThat</small></center>
 
 ## 4. Referências Bibliográficas

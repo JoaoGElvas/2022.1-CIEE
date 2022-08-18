@@ -55,7 +55,7 @@ Com a entrevista obtemos os seguintes dados:
 | 10 | Recomendaria o site do CIEE para outra pessoa? | [ ] Sim  [x] Não |
 
 <center>Tabela 1: Questionário respondido no teste piloto <br>
-<small>Fonte: Autor<small></center>
+<small>Fonte: Autor</small></center>
 
 Após a realização do teste piloto foi possível concluir que as orientações são claras e suficiente para a realização avaliação da Análise de Tarefas. Também verificamos se o sistema e as ferramentas utilizadas estavam funcionando corretamente. 
 Ao analisar os dados obtidos, concluimos que as perguntas e os testes feitos permitirão responder as questões de avaliação, não sendo necessário realizar alterações no planejamento.

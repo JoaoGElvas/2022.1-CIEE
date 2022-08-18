@@ -31,7 +31,7 @@ Foi realizado uma entrevista com a aluna Marianna do curso de Pedagogia da UnB u
 | 10 | Recomendaria o site do CIEE para outra pessoa? | [ ] Sim  [x] Não |
 
 <center>Tabela 1: Questionário respondido na estrevista <br>
-<small>Fonte: Autor<small></center>
+<small>Fonte: Autor</small></center>
 
 Após responder as perguntas do questionário, passamos para a avaliação da Análise de Tarefas pela plataforma para validar o artefato de [Análise de Tarefas](../../analise_requisitos/analise_tarefas.md). Desse modo, a entrevistada relatou quais passos faria para realizar a tarefa de procurar vagas, e o entrevistador seguiu esses passos.
 
