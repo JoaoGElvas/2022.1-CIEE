@@ -1,4 +1,4 @@
-# Planjamento da análise do protótipo de papel
+# Protótipo de papel
 
 ## Introdução
 O protótipo de papel serve para fazer a avaliação de usabilidade de um design de IHC representado em papel. Com simulações de uso com participações de potenciais usuários. Esse método tem um desenvolvimento rápido e de custo barato, por ser no papel. Como é um protótipo de baixa fidelidade o foco maior é na funcionalidade do sistema e não na estética, verificar se o sistema está se comportando bem.
