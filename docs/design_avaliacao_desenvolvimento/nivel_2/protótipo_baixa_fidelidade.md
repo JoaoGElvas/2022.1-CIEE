@@ -8,6 +8,7 @@ O objetivo ao realizar essa atividade é de identificar possíveis problemas na 
 
 ## Metodologia
 O protótipo vai se basear na funcionalidade de se candidatar a vaga que tem interesse,levando em conta que o usuário já tem o cadastro no site. 
+
 O protótipo vai ser feito no pepel desenhado.
 
 ## Protótipo de papel
@@ -31,6 +32,8 @@ O protótipo vai ser feito no pepel desenhado.
 |:--:|
 |*(Figura 4) Tela que mostrar as vagas em que o usuário tem interesse e tem a possibilidade de candidatar-se*|
 
+## Conclusão 
+Com base no protótipo feito, será possível planejar e executar uma avaliação do design pensando e assim será possível consolidar algumas ideias dos desifners da aplicação.
 ## Referências Bibliograficas
 JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homemcomputador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.
 ## Versionamento
