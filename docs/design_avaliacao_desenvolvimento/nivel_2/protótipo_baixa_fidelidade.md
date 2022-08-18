@@ -31,7 +31,7 @@ O protótipo vai se basear na funcionalidade de se candidatar a vaga que tem int
 |*(Figura 4) Tela que mostrar as vagas em que o usuário tem interesse e tem a possibilidade de candidatar-se*|
 
 ## Conclusão 
-Com base no protótipo feito, será possível planejar e executar uma avaliação do design pensando e assim será possível consolidar algumas ideias dos desifners da aplicação.
+Com base no protótipo feito, será possível planejar e executar uma avaliação do design pensando e assim será possível consolidar algumas ideias dos designers da aplicação.
 ## Referências Bibliograficas
 JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homemcomputador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.
 ## Versionamento
