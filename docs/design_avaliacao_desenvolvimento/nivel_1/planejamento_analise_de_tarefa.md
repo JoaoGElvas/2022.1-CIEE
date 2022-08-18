@@ -8,7 +8,8 @@
 ## 3. Metodologia
   Sharp, Rogers e Preece (2007) propõem um framework chamado DECIDE para orientar o planejamento, a execução e a análise de uma avaliação de IHC.
  
- #### Framework DECIDE
+### Framework DECIDE
+
 | | |
 | ----------- | -------------- |
 | D	| Determinar os objetivos da avaliação de IHC O avaliador deve determinar os objetivos gerais da avaliação e identificar por que e para quem tais objetivos são importantes. |

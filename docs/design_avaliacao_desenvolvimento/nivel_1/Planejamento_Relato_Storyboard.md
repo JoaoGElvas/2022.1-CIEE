@@ -17,7 +17,7 @@ dependendo das suas limitações e necessidades.
 ### Participantes a serem entrevistados
 
 Com base no [ perfil de usuário ](../../analise_requisitos/perfil_usuario.md), será escolhida um usuário a ser entrevistado.
-Esse usuário será um estudante de ensino médio que necessita do auxilio do site CIEE.
+Esse usuário será um estudante de ensino médio ou superior que necessita do auxilio do site CIEE.
 
 ## Tarefas 
 O entrevistador terá que está ciente das tarefas estudadas pelo grupo que são elas:
