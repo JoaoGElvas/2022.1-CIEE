@@ -72,5 +72,5 @@ A equipe do ciee deseja obter as respostas para os seguintes pontos:
 
 | Versão | Data       | Descrição                      | Autor(es)                   | Revisor(es)                 |
 | ------ | ---------- | ------------------------------ | --------------------------- | --------------------------- |
-| 1.0    | 16/08/2022 | Criação do documento           | Guilherme Nishimura e Pedro Henrique             | Guilherme Nishimura e Pedro Henrique           |
-| 1.1    | 17/08/2022 | Adição de mais informações ao documento           | Guilherme Nishimura e Pedro Henrique             | Guilherme Nishimura e Pedro Henrique           |
+| 1.0    | 16/08/2022 | Criação do documento           | Guilherme Nishimura            |  Pedro Henrique           |
+| 1.1    | 17/08/2022 | Adição de mais informações ao documento           | Guilherme Nishimura            |  Pedro Henrique           |
