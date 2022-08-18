@@ -33,5 +33,6 @@ nav:
         - Planejamento da avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel_1/planejamento_analise_de_tarefa.md
         - Planejamento do relato dos resultados da avaliação da Análise de Tarefas: design_avaliacao_desenvolvimento/nivel_1/Planejamento_relato_resultados_avaliacao_analise_tarefas.md
     - Nível 2:
+      - Protótipo de Baixa Fidelidade: design_avaliacao_desenvolvimento/nivel_2/prototipo_baixa_fidelidade.md
       - Planejamento da avaliação do Protótipo de Baixa Fidelidade: design_avaliacao_desenvolvimento/nivel_2/planejamento_analise_prototipo_papel.md
   - Apresentações: apresentacoes.md
