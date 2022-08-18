@@ -7,9 +7,7 @@ O protótipo de papel serve para fazer a avaliação de usabilidade de um design
 O objetivo ao realizar essa atividade é de identificar possíveis problemas na funcionalidade de forma barata e rápida, executando testes através do protótipo de baixa fidelidade. 
 
 ## Metodologia
-O protótipo vai se basear na funcionalidade de se candidatar a vaga que tem interesse,levando em conta que o usuário já tem o cadastro no site. 
-
-O protótipo vai ser feito no pepel desenhado.
+O protótipo vai se basear na funcionalidade de se candidatar a vaga que tem interesse, levando em conta que o usuário já tem o cadastro no site, e o protótipo será feito desenhado em uma folha A4.
 
 ## Protótipo de papel
 ### 1. Tela inicial
