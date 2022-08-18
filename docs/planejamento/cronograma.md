@@ -67,9 +67,12 @@ Ponto de controle focado na análise dos resultados do Storyboard, avaliação d
 
 | Tarefa                                                                   | Data limite de entrega | Autor(es)                      | Revisor(es)                     |
 | :----------------------------------------------------------------------- | ---------------------- | ------------------------------ | ------------------------------- |
-| Relato dos resultados do Storyboard e da Análise de tarefas              | 16/08/2022             | A Definir | A Definir    |
-| Planejamento da Avaliação do Protótipo de Papel                          | 16/08/2022             | A Definir    | A Definir |
-| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | 16/08/2022             | A Definir         | A Definir          |
+| Relato dos resultados do Storyboard e da Análise de tarefas              | 17/08/2022             | Davi Lima e Karla Chaiane | Guilherme Nishimura   |
+| Criação do Protótipo de Papel                                            | 17/08/2022             | Pedro Henrique    | Guilherme Nishimura |
+| Planejamento da Avaliação do Protótipo de Papel                          | 17/08/2022             | Guilherme Nishimura e Pedro Henrique | Davi Lima |
+| Planejamento do relato dos resultados da avaliação do Protótipo de Papel | 17/08/2022             | Luis Henrique        | Karla Chaiane         |
+| Gravação do video de apresentação                                        | 17/08/2022        | Todos os integrantes      | Todos os integrantes |
+| Edição do video de apresentação                                          | 17/08/2022        | Davi Lima            | Todos integrantes|
 
 ## 6º Ponto de Controle - (22/08)
 
