@@ -11,7 +11,7 @@ O protótipo vai se basear na funcionalidade de se candidatar a vaga que tem int
 
 ## Protótipo de papel
 ### 1. Tela inicial
-| (![WhatsApp Image 2022-08-17 at 20 39 25](https://user-images.githubusercontent.com/57445188/185263630-f8eebffa-0fb3-4cb4-a2cb-20bce644d2e7.jpeg) |
+| ![WhatsApp Image 2022-08-17 at 20 39 25](https://user-images.githubusercontent.com/57445188/185263630-f8eebffa-0fb3-4cb4-a2cb-20bce644d2e7.jpeg) |
 |:--:|
 |*(Figura 1) Mostrando a tela inicial do site*|
 
