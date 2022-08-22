@@ -6,8 +6,11 @@
   
 ## Cheklist 
    1 - Há erros de ortografia ou formatação?
+   
    2 - Existe uma introdução ao conceito abordado?
+   
    3 - A descrição dos princípios e diretrizes estão de acordo com domínio da aplicação?
+   
    4 - O documento segue o padrão estabelecido pelo grupo?
 
 
