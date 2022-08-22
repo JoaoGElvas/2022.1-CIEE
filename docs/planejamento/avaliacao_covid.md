@@ -41,10 +41,17 @@ A ser executado.
 ### Avaliação
 
 Segue a avaliação heuristica realizada nas figuras 1 e figuras 2
+| ![WhatsApp Image 2022-07-29 at 15 45 35](https://user-images.githubusercontent.com/78215376/181824762-e747659d-4873-4c57-a98f-990aaacc7c7b.jpeg) |
+|:--:| 
+| *FIGURA 1* |
 
-![WhatsApp Image 2022-07-29 at 15 45 35](https://user-images.githubusercontent.com/78215376/181824762-e747659d-4873-4c57-a98f-990aaacc7c7b.jpeg)
 
-![WhatsApp Image 2022-07-29 at 15 45 17](https://user-images.githubusercontent.com/78215376/181824765-87217e9c-a759-4205-85f0-dbce090c0a65.jpeg)
+
+| ![WhatsApp Image 2022-07-29 at 15 45 17](https://user-images.githubusercontent.com/78215376/181824765-87217e9c-a759-4205-85f0-dbce090c0a65.jpeg) |
+|:--:| 
+| *FIGURA 2* |
+
+
 
 
 
