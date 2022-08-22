@@ -19,7 +19,6 @@ Para a verificação dos artefatos organizamos o grupo de modo que cada integran
 
 | Artefato | Inspetor | Revisor|
 |--|--|--|
-| Escolha do site | Guilherme |
 | Perfil de Usuário |  |
 | Aspectos Éticos |  |
 | Personas | Karla |
