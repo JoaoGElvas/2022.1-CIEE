@@ -39,7 +39,7 @@ Após responder as perguntas do questionário, passamos para a avaliação da An
 Com a entrevista foi possível perceber que os passos que o usuário faz condizem com os relatados na Análise de Tarefas. Porém, a entrevistada constata que o site CIEE não satisfaz a necessidade do usuário de procurar e cadastrar-se em vagas. 
 
 
-## 5 Referências Bibliograficas
+## 5. Referências Bibliograficas
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
  
 ## 6. Versionamento
