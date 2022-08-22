@@ -50,6 +50,6 @@ intuitivo, muito difícil de navegar e nada usual.Na figura 1 abaixo é mostrado
 
 | ![WhatsApp Image 2022-07-28 at 16 49 30](https://user-images.githubusercontent.com/78215376/181625314-34fb1447-00d0-41c5-9bcc-8acca6e98e9f.jpeg) |
 |:--:| 
-| *Formulário de avaliação |
+| *figura 1* |
 
 
