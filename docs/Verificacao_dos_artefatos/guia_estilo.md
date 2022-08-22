@@ -14,8 +14,14 @@
    5 - O documento segue o padrão estabelecido pelo grupo?
 
    6 - A imagens possuem legenda?
+   
+   7 - Exise referência bibliográfica no guia de estilo??
 
-# Verificação
+   8 - Existe versionamento no documento?
+   
+   9 - Existe referência de cores no guia de estilo?
+   
+##Verificação
 A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o símbolo ✅ como atendido, ou o símbolo ❌ como não atendido.
 
 | ID      |  Pergunta         | Resposta  |
@@ -26,8 +32,9 @@ A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o
 | 4       | Tem todas as decisões de design? | ✅ |
 | 5       | O documento segue o padrão estabelecido pelo grupo? | ✅ |
 | 6       | A imagens possuem legenda? | ✅ |
-
-
+| 7       | Existe referência bibliográfica no guia de estilo? | ✅ |
+| 8       | Existe versionamento no documento? | ✅ |
+| 9       | Existe referência de cores no guia de estilo? | ✅ |
 ## Resultado
   ![image](https://user-images.githubusercontent.com/57445188/185989787-bbd4ce55-cf07-41d9-afc8-1444947e391f.png)
   
