@@ -13,8 +13,8 @@ A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o
 | 03  | O documento deixa claro seus objetivos?                                     | ✅      |
 | 04  | O documento possui versionamento?                                           | ✅       |
 | 05  | Os dados utilizados possuem fontes                                          | ✅       |
-| 06  | É apresentada a escolaridade e a faixa etária dos usuário                   |    ❌   |
-| 07  | Existe uma conclusão para os dados coletados?                                | ✅       |
+| 06  | É apresentada a escolaridade e a faixa etária dos usuário                   |    ✅     |
+| 07  | Existe uma conclusão para os dados coletados?                                |  ❌     |
 | 08  | Foi apresentada uma metodologia para definição do perfil                     | ✅       |
 | 09 | O documento está coeso e coerente?                                            | ✅       |
 
