@@ -1,20 +1,25 @@
 # Sites avaliados  e sites escolhidos
 
 ## Escolha do site:
+
+
 | **SITES**        | **INTEGRANTES**     |
 |------------------|---------------------|
 | SAE              | PEDRO HENRIQUE      |
 | OJOGOS           | LUIS HENRIQUE       |
 | CIEE             | DAVI LIMA           |
-| COVID.SAUDE           | KARLA CHAIANE       |
+| COVID.SAUDE           | KARLA CHAIANE  |
 | GOVERNO DE PIAUÍ | GUILHERME NISHIMURA |
+
+Tabela 1: Sites e integrantes
 
 Para o projeto foram avaliados sites acima para que após a análise foi filtrado em apenas um. 
 A escolha se deu após uma reunião do grupo onde em concordância do site escolhido foi o CIEE.
+Segue os links abaixos para o planejamento e avaliação dos sites :
 
-| ![WhatsApp Image 2022-07-08 at 16 01 55](https://user-images.githubusercontent.com/78215376/178054684-6c3cf5ed-493c-4342-a195-9171e070d694.jpeg) |
-|:--:| 
-| *Evidencia de avaliação heuristica realizada no site Governo de Piauí* |
+* [Planejamento e avaliação do site SAE ](../../planejamento/avaliacao_sae.md) 
+
+
 
 
 ## Site selecionado
