@@ -18,6 +18,10 @@ A escolha se deu após uma reunião do grupo onde em concordância do site escol
 Segue os links abaixos para o planejamento e avaliação dos sites :
 
 * [Planejamento e avaliação do site SAE ](../../planejamento/avaliacao_sae.md) 
+* [Planejamento e avaliação do site CIEE ](../../planejamento/AVALIACAO_CIEE.md)
+* [Planejamento e avaliação do site Covid ](../../planejamento/avaliacao_covid.md)
+* [Planejamento e avaliação do site Governo de Piauí ](../docs/planejamento/AVALIACAO_CIEE.MD)
+* [Planejamento e avaliação do site Ojogos ](../../planejamento/avaliacaodwdwqd.md)
 
 
 
