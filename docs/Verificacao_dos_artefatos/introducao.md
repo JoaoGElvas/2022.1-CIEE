@@ -28,7 +28,7 @@ Para a verificação dos artefatos organizamos o grupo de modo que cada integran
 | Metas de Usabilidade |  | - |
 | Guia de Estilo | Pedro | - |
 | Storyboard |  | - |
-| Planejamentos e Avaliação do Storyboard |  | - |
+| Planejamentos e Avaliação do Storyboard | Guilherme | - |
 | Planejamentos e Avaliação da Análise de Tarefas |  | - |
 | Teste piloto do Storyboard e Análise de Tarefas |  | - |
 | Protótipo de Baixa Fidelidade  | Karla | - |
