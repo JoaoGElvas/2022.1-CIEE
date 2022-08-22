@@ -109,7 +109,7 @@ Ao clicar em informes de rendimento, o usuário é redirecionado a uma pagina em
 
 | ![image](https://user-images.githubusercontent.com/78215376/184901228-74edb2db-45e9-4ab1-a6ff-77f7bd3e6bfd.png) |
 |:--:| 
-| *Tabela 2 |
+| *Tabela 3* |
 
  |![image](https://user-images.githubusercontent.com/78215376/184901371-62329c5b-e05e-4576-8423-6daf78bf0aa5.png)|
 |:--:| 
@@ -119,7 +119,7 @@ O rodapé da pagina apresenta 3 campos com disponibilidade para sem clicados, po
 
  |![image](https://user-images.githubusercontent.com/78215376/184901658-e2baf48e-35e6-4028-9c86-2a4ad90f7292.png)|
 |:--:| 
-| *tabela 3* |
+| *tabela 4* |
 
 
 ## 5	– Conclusão 
