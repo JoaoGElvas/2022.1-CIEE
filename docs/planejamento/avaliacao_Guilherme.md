@@ -65,4 +65,4 @@ indicado para tais ação..Na figura 1 abaixo é mostrado o formulário de avali
 
 | ![Imagem1](https://user-images.githubusercontent.com/78215376/184437955-ade3fa05-91c4-4eef-92ab-eeb87139f24d.png) |
 |:--:| 
-| *FIGURA 2* |
+| *FIGURA 1* |
