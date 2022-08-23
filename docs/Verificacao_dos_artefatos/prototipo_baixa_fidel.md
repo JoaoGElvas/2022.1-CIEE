@@ -59,4 +59,4 @@ De acordo com a inspeção realizada, nenhum dos requisitos apresentou o estado 
 ## 7. Versionamento
 |Versão	| Data	| Descrição |	Autor(es)	| Revisor(es)|
 |--------|----|-----------|-------|---------|
-| 1.0 |	22/08/2022	| Criação do documento | Karla Chaiane | - |
+| 1.0 |	22/08/2022	| Criação do documento | Karla Chaiane | Davi Lima |

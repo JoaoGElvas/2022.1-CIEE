@@ -72,4 +72,4 @@ Desse modo, será feita a correção desse requisito no documento de Planejament
 ## 7. Versionamento
 |Versão	| Data	| Descrição |	Autor(es)	| Revisor(es)|
 |--------|----|-----------|-------|---------|
-| 1.0 |	22/08/2022	| Criação do documento | Karla Chaiane | - |
+| 1.0 |	22/08/2022	| Criação do documento | Karla Chaiane | Davi Lima |
