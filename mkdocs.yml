@@ -43,16 +43,24 @@ nav:
     - Introdução: Verificacao_dos_artefatos/introducao.md
     - Análise de Requisitos:
       - Perfil de Usuário: Verificacao_dos_artefatos/perfil_usuario.md
-      - Análise de Tarefas: Verificacao_dos_artefatos/Analise_tarefas.md
-      - Metas de Usabilidade: Verificacao_dos_artefatos/Metas_usabilidade.md
       - Personas: Verificacao_dos_artefatos/personas.md
+      - Análise de Tarefas: Verificacao_dos_artefatos/Analise_tarefas.md
+      - Princípios Gerais do Projeto: Verificacao_dos_artefatos/principios_gerais_projeto.md
+      - Metas de Usabilidade: Verificacao_dos_artefatos/Metas_usabilidade.md
+      - Guia de Estilo: Verificacao_dos_artefatos/guia_estilo.md
     - Design, avaliação e desenvolvimento:
-      - Storyboard:
-        - Planejamento da avaliação do Storyboard: Verificacao_dos_artefatos/Planej_aval_storyboard.md
       - Nível 1:
         - Análise de tarefas:
           - Planejamento da avaliação da Análise de Tarefas: Verificacao_dos_artefatos/nivel_1/planej_analise_de_tarefa.md
           - Planejamento do relato dos resultados da avaliação: Verificacao_dos_artefatos/nivel_1/Planej_relato_resultados_avaliacao_analise_tarefas.md
           - Relato e Avaliação da Análise de Tarefas: Verificacao_dos_artefatos/nivel_1/relato_analise_tarefas.md
         - Teste Piloto Storyboard e Análise de Tarefas: Verificacao_dos_artefatos/nivel_1/teste_piloto.md
+      - Storyboard: 
+          - Planejamento da avaliação do Storyboard: Verificacao_dos_artefatos/Planej_aval_storyboard.md
+          - Planejamento do relato dos resultados da avaliação: Verificacao_dos_artefatos/Planejamento_relato_resultados_storyboard.md.md
+          - Relato e Avaliação do Storyboard: Verificacao_dos_artefatos/relato_avaliacao_storyboard.md
+      - Nível 2:
+        - Protótipo de Baixa Fidelidade: Verificacao_dos_artefatos/prototipo_baixa_fidel.md
+        - Planejamento da avaliação do Prótotipo de Baixa fidelidade: Verificacao_dos_artefatos/planej_prot_baixa_fidel.md
+        - Planejamento do relato dos resultados da avaliação: Verificacao_dos_artefatos/planej_relato_prot_baixa_fidel.md
   - Apresentações: apresentacoes.md

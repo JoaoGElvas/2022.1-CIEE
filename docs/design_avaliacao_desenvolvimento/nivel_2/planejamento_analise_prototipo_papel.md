@@ -11,7 +11,7 @@ uma solução de IHC executável. Eles podem ser  representações de interfaces
 
 ## 2. Metodologia
 
-As atividades feitas estão na tabela abaixo:
+O método utilizado para realizar a avaliação será a partir de entrevistas, onde o roteiro das atividades que serão feitas estão na tabela abaixo:
 
 
 | Atividade | Tarefas |
@@ -74,3 +74,4 @@ A equipe do ciee deseja obter as respostas para os seguintes pontos:
 | ------ | ---------- | ------------------------------ | --------------------------- | --------------------------- |
 | 1.0    | 16/08/2022 | Criação do documento           | Guilherme Nishimura            |  Pedro Henrique           |
 | 1.1    | 17/08/2022 | Adição de mais informações ao documento           | Guilherme Nishimura            |  Pedro Henrique           |
+| 1.2    | 22/08/2022 | Correções após a etapa de verificação | Karla Chaiane | Davi Lima |
