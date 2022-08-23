@@ -78,9 +78,23 @@ Ponto de controle focado na análise dos resultados do Storyboard, avaliação d
 
 Ponto de controle focado na verificação dos artefatos
 
-| Tarefa                    | Data limite de entrega | Autor(es)            | Revisor(es)          |
-| :------------------------ | ---------------------- | -------------------- | -------------------- |
-| Verificação dos artefatos | 21/08/2022             | A Definir | A Definir |
+| Tarefa                      | Data limite de entrega | Autor(es)                      | Revisor(es)                     |
+|---------------------------- | ---------------------- | ------------------------------ | ------------------------------- |
+| Verificação do Perfil de Usuário              | 22/08/2022             | Guilherme Nishimura | Pedro Henrique |
+| Verificação dos Aspectos Éticos                                          | 22/08/2022             | Davi Lima    | Karla Chaine |
+| Verificação de Personas                          | 22/08/2022             | Karla Chaine | Davi Lima |
+| Verificação de Análise de Tarefas | 22/08/2022             | Guilherme    | Pedro Henrique |
+| Princípios Gerais do Projeto | 22/08/2022 | Pedro Henrique | Guilherme |
+| Metas de Usabilidade | 22/08/2022 | Guilherme | Pedro Henrique |
+| Guia de Estilo | 22/08/2022 | Pedro Henrique | Guilherme |
+| Storyboard | 22/08/2022 | Karla Chaiane | Davi Lima|
+| Planejamentos e Avaliação do Storyboard | 22/08/2022 | Guilherme | Pedro Henrique |
+| Planejamentos e Avaliação da Análise de Tarefas | 22/08/2022 | Davi Lima | Karla Chaiane |
+| Teste piloto do Storyboard e Análise de Tarefas | 22/08/2022 | Davi Lima | Karla Chaiane |
+| Protótipo de Baixa Fidelidade  | 22/08/2022 | Karla Chaiane | Davi Lima |
+| Planejamentos do Protótipo de Baixa Fidelidade | 22/08/2022 | Karla Chaiane | Davi Lima |
+| Gravação do video de apresentação                                        | 22/08/2022  | Davi, Guilherme, Karla e Pedro    | Davi, Guilherme, Karla e Pedro |
+| Edição do video de apresentação                                          | 22/08/2022        | Davi Lima            | Davi, Guilherme, Karla e Pedro|
 
 ## 7º Ponto de Controle - (05/09)
 

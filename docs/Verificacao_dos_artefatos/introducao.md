@@ -72,4 +72,4 @@ O método utilizado para realizar a inspeção será a partir de **checklists** 
 ## Versionamento
 |Versão	| Data	| Descrição |	Autor(s)	| Revisor(s)|
 |--------|----|-----------|-------|---------|
-| 1.0 |	22/08/2022	| Criação do documento | Karla Chaiane | - |
+| 1.0 |	22/08/2022	| Criação do documento | Karla Chaiane | Davi Lima|

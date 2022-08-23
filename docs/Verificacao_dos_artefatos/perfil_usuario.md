@@ -34,6 +34,6 @@ Após a checklist feita pode ser concluir que ainda há erros que podem ser melh
 
 ## 5. Histórico de Versão
 
-| Versão | Data       | Descrição                                                     | Autor(es)                 |
-| ------ | ---------- | ------------------------------------------------------------- | ------------------------- |
-| 1.0    | 22/08/2022 | Criação do documento                                          | Guilherme Nishimura da Silva |
+|Versão	| Data	| Descrição |	Autor(s)	| Revisor(s)|
+|--------|----|-----------|-------|---------|
+| 1.0 |	22/08/2022	| Criação do documento |  Guilherme | Pedro Henrique |
