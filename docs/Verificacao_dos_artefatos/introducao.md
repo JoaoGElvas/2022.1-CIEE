@@ -17,6 +17,8 @@ Existem diferentes técnicas para a realização da verificação, como Inspeç�
 
 Para a verificação dos artefatos organizamos o grupo de modo que cada integrante ficasse responsável por inspecionar artefatos que foram realizados por outro integrante, como segue a tabela abaixo.
 
+<center>
+
 | Artefato | Inspetor |
 |--|--|
 | Perfil de Usuário | Guilherme |
@@ -33,8 +35,8 @@ Para a verificação dos artefatos organizamos o grupo de modo que cada integran
 | Protótipo de Baixa Fidelidade  | Karla |
 | Planejamentos do Protótipo de Baixa Fidelidade | Karla |
 
-Tabela 1: Planejamento da verificação <br>
-<small>Fonte: Autor</small>
+**Tabela 1: Planejamento da verificação** <br>
+<small>Fonte: Autor</small></center>
 
 ## Visão Geral
 
@@ -42,19 +44,18 @@ A fim de realizar a verificação, a **preparação** será feita a partir de ch
 
 Os documentos da inspeção de cada artefato encontram-se abaixo.
 
-- [Escolha do site]()
-- [Perfil de Usuário]()
-- [Aspectos Éticos]()
-- [Personas]()
-- [Análise de Tarefas]()
-- [Princípios Gerais do Projeto]()
-- [Metas de Usabilidade]()
-- [Guia de Estilo]()
-- [Storyboard]()
-- [Planejamentos e Avaliação do Storyboard]()
-- [Planejamentos e Avaliação da Análise de Tarefas]()
-- [Protótipo de Baixa Fidelidade]()
-- [Planejamentos do Protótipo de Baixa Fidelidade]()
+- [Perfil de Usuário](perfil_usuario.md)
+- [Aspectos Éticos](aspectos_eticos.md)
+- [Personas](personas.md)
+- [Análise de Tarefas](Analise_tarefas.md)
+- [Princípios Gerais do Projeto](principios_gerais_projeto.md)
+- [Metas de Usabilidade](Metas_usabilidade.md)
+- [Guia de Estilo](guia_estilo.md)
+- [Storyboard](storyboard.md)
+- [Planejamentos e Avaliação do Storyboard](Planej_aval_storyboard.md)
+- [Planejamentos e Avaliação da Análise de Tarefas](planej_analise_de_tarefa.md)
+- [Protótipo de Baixa Fidelidade](prototipo_baixa_fidel.md)
+- [Planejamentos do Protótipo de Baixa Fidelidade](planej_prot_baixa_fidel.md)
 
 ## Preparação
 
