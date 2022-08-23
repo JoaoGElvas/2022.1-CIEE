@@ -77,12 +77,23 @@ De acordo com a inspeção realizada, percebe-se que apenas 1 requisito não é 
 
 Desse modo, será feita a correção desse requisito no documento de Personas, e em seguida será gerado outro gráfico para verificar se os requisitos são completamente atendidos.
 
-## 6. Referências
+## 6. Acompanhamento Versão 2
+
+Após a correção dos requisitos inspecionados e marcados como não atendidos, foram gerados os seguintes dados e gráficos correspondentes ao artefato verificado.
+
+- 15 Atendidos e 0 Não Atendido
+- 100% de elementos atendidos
+
+<center>![chart](https://user-images.githubusercontent.com/78981063/186037037-269792ce-33f6-46f2-8ec0-4f11bfc26923.png)  
+**Gráfico 1: Porcentagem de requisitos atendidos na inspeção** <br>
+<small>Fonte: Autor</small></center>
+
+## 7. Referências
 
 - SERRANO, Milene. SERRANO, Maurício. "Requisitos - Aula 23". Disponibilizado em ambiente virtual pelo docente.
 - SIQUEIRA, Fábio Levy. "Gerência e Qualidade de Software - Aula 6 - Técnicas de Revisão". Youtube, 21 jun. 2018. Disponível em https://youtu.be/nA1BVDd9GUE. Acesso em 22 ago. 2022. 
 
-## 7. Versionamento
+## 8. Versionamento
 |Versão	| Data	| Descrição |	Autor(es)	| Revisor(es)|
 |--------|----|-----------|-------|---------|
 | 1.0 |	22/08/2022	| Criação do documento | Karla Chaiane | Davi Lima |

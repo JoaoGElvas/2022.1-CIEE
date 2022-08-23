@@ -21,6 +21,8 @@ influenciar as decisões de projeto (Courage e Bexter,2005)
 ## Metodologia
 &emsp;&emsp;Dado o perfil de usuario levantado pela equipe segue as personas criadas dividos em persona primária, persona secundária e antiusuário.
 
+Segundo (Simone, 2010), a quantidade ideal para o elenco personas é de 3 a 12 personas distintas. Desse modo, neste documento serão apresentadas 3 personas e 1 antipersona.
+
 ### Personas criadas
 
 Figura 1: Persona primária
@@ -61,5 +63,6 @@ Imagens retiradas do site: https://thispersondoesnotexist.com/
 ## Versionamento
 | Versão | Data | Descrição | Autor | Revisão
 |--- |--- |--- |--- |--- |
-| 1.0 | 19/07/2022 | Criação inicial do documento | Guilherme Nishimura | Karla Chaiane
-| 1.1 | 20/07/2022 | Ajuste de erros ortográficos  | Guilherme Nishimura | Karla Chaiane
+| 1.0 | 19/07/2022 | Criação inicial do documento | Guilherme Nishimura | Karla Chaiane |
+| 1.1 | 20/07/2022 | Ajuste de erros ortográficos  | Guilherme Nishimura | Karla Chaiane |
+| 1.2 | 22/08/2022 | Ajustes após a etapa de verificação  | Karla Chaiane | Davi Lima |
