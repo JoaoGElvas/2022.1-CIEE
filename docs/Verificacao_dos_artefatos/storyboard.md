@@ -8,33 +8,47 @@ Neste documento será abordada a realização da verificação por inspeção do
 
 A inspeção do artefato de Protótipo de Baixa Fidelidade será feita com base nas perguntas presentes no checklist abaixo, onde serão atribuídos os símbolos ✅ para atendido e ❌ para não atendido. 
 
+
 <center>
 
 | ID | Questão |
 |--|--|
-| 1 | É especificado quais páginas o protótipo representa? |
-| 2 | É possível realizar interação com o protótipo? |
-| 3 | O protótipo apresenta um fluxo entre as páginas? |
-| 4 | As páginas remetem as tarefas identificadas anteriormente? |
-| 5 | Foi especificado o modo de criação do protótipo? |
-| 6 | O documento segue o padrão estabelecido pelo grupo? |
+| 1 | O documento está gramaticamente? |
+| 2 | O documento está no padrão da wiki? |
+| 3 | O documento deixa claro seus objetivos? |
+| 4 | A metodologia está bem explicada? |
+| 5 | Foram identificadas as tarefas a serem cumpridas? |
+| 6 | Foram identifcados os passos para realização das tarefas? |
+| 7 | Foi identificado o papel que a interface tem para o usuário? |
+| 8 | Possui referências textuais? |
+| 9 | O documento esta coeso e coerente? |
+| 10 | O documento possui versionamento coerente com o padrão definido pelo grupo? |
+| 11 | O documento possui referências bibliográficas? |
 
 **Tabela 1: Modelo de checklist para a inspeção** <br>
 <small>Fonte: Autor</small></center>
 
+
+
 Além disso, após a inspeção dos elementos da checklist, será feita a correção dos erros encontrados e a geração de gráficos de acompanhamento.
 
 ## 3. Inspeção
+
 <center>
 
 | ID | Questão | Inspeção |
 |--|--|--|
-| 1 | É especificado quais páginas o protótipo representa? | ✅ |
-| 2 | É possível realizar interação com o protótipo? | ✅ |
-| 3 | O protótipo apresenta um fluxo entre as páginas? | ✅ |
-| 4 | As páginas remetem as tarefas identificadas anteriormente? | ✅ |
-| 5 | Foi especificado o modo de criação do protótipo? | ✅ |
-| 6 | O documento segue o padrão estabelecido pelo grupo? | ✅ |
+| 1 | O documento está gramaticamente? | ✅ |
+| 2 | O documento está no padrão da wiki? | ✅ |
+| 3 | O documento deixa claro seus objetivos? | ✅ |
+| 4 | A metodologia está bem explicada? | ✅ |
+| 5 | Foram identificadas as tarefas a serem cumpridas? | ✅ |
+| 6 | Foram identifcados os passos para realização das tarefas? | ✅ |
+| 7 | Foi identificado o papel que a interface tem para o usuário? | ✅ |
+| 8 | Possui referências textuais? | ✅ |
+| 9 | O documento esta coeso e coerente? | ✅ |
+| 10 | O documento possui versionamento coerente com o padrão definido pelo grupo? | ✅ |
+| 11 | O documento possui referências bibliográficas? | ✅ |
 
 **Tabela 2: Checklist preenchido após inspeção** <br>
 <small>Fonte: Autor</small></center>
@@ -43,7 +57,7 @@ Além disso, após a inspeção dos elementos da checklist, será feita a corre�
 
 Após a inspeção do Protótipo de Baixa Fidelida, foi possível analisar que todos os requisitos foram atendidos, gerando os seguintes dados e gráfico.
 
-- 6 Atendidos e 0 Não Atendido
+- 11 Atendidos e 0 Não Atendido
 - 100% de elementos atendidos
 
 <center>![chart](https://user-images.githubusercontent.com/78981063/186037037-269792ce-33f6-46f2-8ec0-4f11bfc26923.png)  
