@@ -17,21 +17,21 @@ Existem diferentes técnicas para a realização da verificação, como Inspeç�
 
 Para a verificação dos artefatos organizamos o grupo de modo que cada integrante ficasse responsável por inspecionar artefatos que foram realizados por outro integrante, como segue a tabela abaixo.
 
-| Artefato | Inspetor | Revisor|
-|--|--|--|
-| Perfil de Usuário |  |
-| Aspectos Éticos |  |
-| Personas | Karla |
+| Artefato | Inspetor |
+|--|--|
+| Perfil de Usuário | Guilherme |
+| Aspectos Éticos | Davi |
+| Personas | Karla | Davi |
 | Análise de Tarefas | Guilherme |
-| Princípios Gerais do Projeto | Pedro | - |
-| Metas de Usabilidade |  | - |
-| Guia de Estilo | Pedro | - |
-| Storyboard |  | - |
-| Planejamentos e Avaliação do Storyboard | Guilherme | - |
-| Planejamentos e Avaliação da Análise de Tarefas |  | - |
-| Teste piloto do Storyboard e Análise de Tarefas |  | - |
-| Protótipo de Baixa Fidelidade  | Karla | - |
-| Planejamentos do Protótipo de Baixa Fidelidade | Karla | - |
+| Princípios Gerais do Projeto | Pedro |
+| Metas de Usabilidade | Guilherme |
+| Guia de Estilo | Pedro |
+| Storyboard | Karla |
+| Planejamentos e Avaliação do Storyboard | Guilherme |
+| Planejamentos e Avaliação da Análise de Tarefas | Davi |
+| Teste piloto do Storyboard e Análise de Tarefas | Davi |
+| Protótipo de Baixa Fidelidade  | Karla |
+| Planejamentos do Protótipo de Baixa Fidelidade | Karla |
 
 Tabela 1: Planejamento da verificação <br>
 <small>Fonte: Autor</small>
