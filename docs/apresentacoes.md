@@ -22,7 +22,7 @@
 
 ## 6ª Apresentação
 
-<iframe width="800" height="400" src="https://www.youtube.com/embed/ybRcKaz1sPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="400" src="https://www.youtube.com/embed/ECOwEh0ITwU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Versionamento
 | Versão | Data | Descrição | Autor | Revisor |
