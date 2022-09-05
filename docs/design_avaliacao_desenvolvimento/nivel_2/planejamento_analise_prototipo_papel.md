@@ -1,7 +1,7 @@
 # Planejamento da Avaliação do Protótipo de Papel
 ## 1. Introdução
 
-Neste arquivo iremos abordar quais metodos,perfis e tarefas a equipe irá utilizar para a avaliação de Protótipo de papel.
+Neste arquivo iremos abordar quais métodos, perfis e tarefas a equipe irá utilizar para a avaliação de Protótipo de papel.
 
 Protótipo de papel é avaliar a usabilidade de um design de IHC
 representado em papel, através de simulações de uso com a participação de potenciais usuários. Simular o
