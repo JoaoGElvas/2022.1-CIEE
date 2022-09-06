@@ -1,7 +1,7 @@
-# Planejamento do relato dos resultados do Storyboard
+# Planejamento do relato dos resultados do protótipo de alta fidelidade
 
 ## Introdução
-Este documento abordará o planejamento da equipe a respeito dos relatos dos resultados do Protipo de alta fidelidade.
+Este documento abordará o planejamento da equipe a respeito dos relatos dos resultados do protótipo de alta fidelidade.
 
 Ele terá os metodos utilizados, juntamente com os participantes e as tarefas.
 
