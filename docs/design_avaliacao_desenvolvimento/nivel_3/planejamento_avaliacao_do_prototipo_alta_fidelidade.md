@@ -29,11 +29,31 @@ Figura 1: Termo de consentimento
   
   A equipe vai realizar um teste piloto que consiste em aplicar a entrevista com antes de entrar em contato com os participantes 
 
-## Relato dos resultados
 
-## Referência Bibliográfica
+## 3. Tarefas para os participantes
 
-## Versionamento
-| Data       | Versão   | Descrição                         | Autor          | Revisor      |
-|------------|------------|-----------------------------------|----------------|--------------|
-| 09/05/2022 | 1.0 | Criação do documento | Pedro Henrique | Guilherme Nishimura|
+
+* Candidatar para uma vaga
+
+## 4. Conclusão
+
+A equipe do ciee deseja obter as respostas para os seguintes pontos:
+
+- Saber  a experiencia do usuário.
+- Saber os pontos positivos e negativos da expereriencia do usuário.
+- Problemas encontrados.
+- Gravidade dos problemas encontrados.
+
+
+
+## 6. Referências
+
+1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
+   Interação Humano-Computador e Experiência do usuário. Autopublicação. Página 303, tópico 12.2.3 - Prototipação em papel.
+
+## 7. Histórico de Versão
+
+| Versão | Data       | Descrição                      | Autor(es)                   | Revisor(es)                 |
+| ------ | ---------- | ------------------------------ | --------------------------- | --------------------------- |
+| 1.0    | 05/09/2022 | Criação do documento           | Pedro Henrique          |  Guilherme Nishimura           |
+
