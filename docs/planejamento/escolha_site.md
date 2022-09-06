@@ -17,14 +17,10 @@ Para o projeto foram avaliados sites acima para que após a análise foi filtrad
 A escolha se deu após uma reunião do grupo onde em concordância do site escolhido foi o CIEE.
 Segue os links abaixos para o planejamento e avaliação dos sites :
 
-* [Planejamento e avaliação do site SAE ](../../planejamento/avaliacao_sae.md) 
-* [Planejamento e avaliação do site CIEE ](../../planejamento/AVALIACAO_CIEE.md)
-* [Planejamento e avaliação do site Covid ](../../planejamento/avaliacao_covid.md)
-* [Planejamento e avaliação do site Governo de Piauí ](../docs/planejamento/AVALIACAO_CIEE.MD)
-* [Planejamento e avaliação do site Ojogos ](../../planejamento/avaliacaodwdwqd.md)
-
-
-
+* [Planejamento e avaliação do site SAE ](avaliacao_sae.md) 
+* [Planejamento e avaliação do site CIEE ](avaliacao_ciee.md)
+* [Planejamento e avaliação do site Covid ](avaliacao_covid.md)
+* [Planejamento e avaliação do site Governo de Piauí ](avaliacao_Guilherme.md)
 
 ## Site selecionado
 
