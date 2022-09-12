@@ -15,7 +15,9 @@ Ao longo da elaboração do projeto serão necessárias algumas ferramentas para
 | ![image](https://user-images.githubusercontent.com/78215376/189721294-087d0b16-9497-4e00-abc8-3e48d2458d37.png) | YOUTUBE - Para Guardar os videos 
 | ![image](https://user-images.githubusercontent.com/78215376/189721031-8f6ebf4d-17e7-48ac-a9fc-a62729d443a5.png) | OBS STUDIO-Para gravação de entrevistas e das apresentações
 
+## Referência Bibliográfica
 
+BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
 
 ## Versionamento
 | Versão | Data | Descrição | Autor | Revisão
