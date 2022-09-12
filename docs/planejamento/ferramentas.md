@@ -15,6 +15,21 @@ Ao longo da elaboração do projeto serão necessárias algumas ferramentas para
 | ![image](https://user-images.githubusercontent.com/78215376/189721294-087d0b16-9497-4e00-abc8-3e48d2458d37.png) | YOUTUBE - Para Guardar os videos 
 | ![image](https://user-images.githubusercontent.com/78215376/189721031-8f6ebf4d-17e7-48ac-a9fc-a62729d443a5.png) | OBS STUDIO-Para gravação de entrevistas e das apresentações
 
+## Tabela com ferramentas
+
+Na tabela 1 abaixo será mostrado a utilização das ferramentas nas etapas do projeto.
+
+
+| **Etapas**                         | **GitHub** | **WhatsApp** | **Vscode** | **Google Docs** | **Microsoft Teams** | **Discord** | **Lucidchart** | **YOUTUBE** | **OBS STUDIO** |
+|----------------------------------|------------|--------------|------------|-----------------|---------------------|-------------|----------------|-------------|----------------|
+| Planejamento                     | ✅          | ✅            | ✅          | ✅               | ✅                   | ✅           | ✅              | ✅           | ✅              |
+| Analise de Requisitos            | ✅          | ✅            | ❌          | ✅               | ✅                   | ✅             | ✅              | ✅           | ✅              |
+| Verificação de artefatos         | ✅          | ✅            | ❌          | ❌               | ✅                   | ❌           | ✅              | ✅           | ✅              |
+| design_avaliacao_desenvolvimento | ✅          | ✅            | ✅          | ❌               | ✅                   | ❌             | ✅              | ✅           | ✅              |
+
+
+
+
 ## Referência Bibliográfica
 
 BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
@@ -26,3 +41,4 @@ BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
 | 1.1 | 21/07/2022 | Ajuste do documento | Pedro Henrique | Guilherme Nishimura
 | 2.0 | 12/09/2022 | Novas ferramentas | Guilherme Nishimura | - |
 | 2.1 | 12/09/2022 | Melhoria da introdução |  Karla | - |
+| 2.2 | 12/09/2022 | Tabela com ferramentas |  Guilherme Nishimura | - |
