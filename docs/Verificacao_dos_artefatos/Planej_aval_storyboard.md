@@ -6,6 +6,11 @@ Este documento irá abordar a verificação do planejamento de avaliação dos s
 
 A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o símbolo ✅ como atendido, ou o símbolo ❌ como não atendido.
 
+Criador: Pedro Henrique
+
+Inspetor: Guilherme Nishimura da Silva
+
+
 | ID  | Tópico                                                                     | Análise |
 | --- | -------------------------------------------------------------------------- | ------- |
 | 01  | O documento está gramaticamente correto?                                   | ✅       |
@@ -46,3 +51,5 @@ Após a checklist feita pode ser concluir que nesta etapa precisa de um teste pi
 | ------ | ---------- | ------------------------------------------------------------- | ------------------------- |
 | 1.0    | 22/08/2022 | Criação do documento                                          | Guilherme Nishimura da Silva |
 | 2.0    | 12/09/2022 | Ajustes no checklist                                         | Guilherme Nishimura da Silva |
+| 2.0    | 12/09/2022 | Anexo de Autor e inspetor                                      | Guilherme Nishimura da Silva |
+
