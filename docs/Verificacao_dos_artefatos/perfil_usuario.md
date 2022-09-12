@@ -22,7 +22,8 @@ A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o
 
 Após a checklist feita pode ser concluir que ainda há erros que podem ser melhorados com base na figura 1 que representa um gráfico de pizza abaixo:
 
-![image](https://user-images.githubusercontent.com/78215376/185992776-d86267eb-776b-4f75-a77f-bafd8f1edc98.png)
+![image](https://user-images.githubusercontent.com/78215376/189723676-c434c523-b634-41a0-9c06-fd29d30f36c8.png)
+
 
 *Figura 1*
 
@@ -37,3 +38,4 @@ Após a checklist feita pode ser concluir que ainda há erros que podem ser melh
 |Versão	| Data	| Descrição |	Autor(s)	| Revisor(s)|
 |--------|----|-----------|-------|---------|
 | 1.0 |	22/08/2022	| Criação do documento |  Guilherme | Pedro Henrique |
+| 2.0 |	12/09/2022	| Ajustes checklist |  Guilherme | Pedro Henrique |
