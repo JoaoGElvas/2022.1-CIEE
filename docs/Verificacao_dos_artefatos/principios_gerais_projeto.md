@@ -7,6 +7,7 @@
 A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o símbolo ✅ como atendido, ou o símbolo ❌ como não atendido.
 
 Autor(es) do artefato: Guilherme Nishimura
+
 Inspetor: Pedro Henrique
 
 Questões a serem analisadas:
