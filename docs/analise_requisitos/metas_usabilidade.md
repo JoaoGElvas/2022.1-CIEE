@@ -22,4 +22,4 @@ JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da i
 | Data       | Versão   | Descrição                         | Autor          | Revisor      |
 |------------|------------|-----------------------------------|----------------|--------------|
 | 29/07/2022 | 1.0 | Criação do documento | Pedro Henrique | Luis Henrique|
-| 29/07/2022 | 1.1 | Atualização do documento | Pedro Henrique ||
+| 12/09/2022 | 1.1 | Atualização do documento | Pedro Henrique ||
