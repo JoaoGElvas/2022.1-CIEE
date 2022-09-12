@@ -6,10 +6,8 @@ Este documento irá abordar a verificação do Perfil de usuário.
 
 A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o símbolo ✅ como atendido, ou o símbolo ❌ como não atendido.
 
-Criador: Luis Henrique
-
+Autor(es) do artefato: Luis Henrique
 Inspetor: Guilherme Nishimura da Silva
-
 
 | ID  | Tópico                                                                     | Análise |
 | --- | -------------------------------------------------------------------------- | ------- |

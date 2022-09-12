@@ -6,8 +6,7 @@ Este documento irá abordar a verificação [Análise de tarefas](../analise_req
 
 A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o símbolo ✅ como atendido, ou o símbolo ❌ como não atendido.
 
-Criador: Davi Lima e Karla Chaiane
-
+Autor(es) do artefato: Davi Lima e Karla Chaiane   
 Inspetor: Guilherme Nishimura da Silva
 
 | ID  | Tópico                                                                     | Análise |

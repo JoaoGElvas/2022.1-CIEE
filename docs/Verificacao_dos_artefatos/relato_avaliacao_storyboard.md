@@ -3,6 +3,14 @@
   Essa é a verificação do artefato [Relato e avaliação do storyboard](https://github.com/Interacao-Humano-Computador/2022.1-CIEE/blob/main/docs/design_avaliacao_desenvolvimento/nivel_1/relato_storyboard.md).
   
 ## Cheklist 
+
+A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o símbolo ✅ como atendido, ou o símbolo ❌ como não atendido.
+
+Autor(es) do artefato: Guilherme Nishimura
+Inspetor: Pedro Henrique
+
+Questões a serem analisadas:
+
    1 - O documento está gramaticalmente correto?
    
    2 - O documento deixa claro seus objetivos?

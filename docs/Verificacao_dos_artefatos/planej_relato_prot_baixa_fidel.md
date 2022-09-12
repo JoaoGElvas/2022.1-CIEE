@@ -6,6 +6,9 @@ Neste documento será abordada a realização da verificação por inspeção do
 
 A inspeção do artefato de Planejamento do Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade será feita com base nas perguntas presentes no checklist abaixo, onde serão atribuídos os símbolos ✅ para atendido e ❌ para não atendido. 
 
+Autor(es) do artefato: Luis Henrique
+Inspetor: Karla Chaiane
+
 <center>
 
 | ID | Questão |

@@ -3,6 +3,14 @@
   Essa é a verificação do artefato [Princípios gerais do projeto](https://github.com/Interacao-Humano-Computador/2022.1-CIEE/blob/main/docs/analise_requisitos/Principios_projeto.md).
   
 ## Cheklist 
+
+A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o símbolo ✅ como atendido, ou o símbolo ❌ como não atendido.
+
+Autor(es) do artefato: Guilherme Nishimura
+Inspetor: Pedro Henrique
+
+Questões a serem analisadas:
+
    1 - O documento está gramaticalmente correto?
    
    2 - Existe uma introdução ao conceito abordado?

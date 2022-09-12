@@ -6,10 +6,8 @@ Este documento irá abordar a verificação do planejamento de avaliação dos s
 
 A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o símbolo ✅ como atendido, ou o símbolo ❌ como não atendido.
 
-Criador: Pedro Henrique
-
+Autor(es) do artefato: Pedro Henrique
 Inspetor: Guilherme Nishimura da Silva
-
 
 | ID  | Tópico                                                                     | Análise |
 | --- | -------------------------------------------------------------------------- | ------- |

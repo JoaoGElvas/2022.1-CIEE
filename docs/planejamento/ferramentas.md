@@ -1,6 +1,6 @@
 # Ferramentas Utilizadas
 
-Esta tabela irá mostrar as ferramentas que vamos utilizar ao longo do semestre para fazer o trabalho
+Ao longo da elaboração do projeto serão necessárias algumas ferramentas para armazenar arquivos, facilitar a comunicação, produzir artefatos e outros. A tabela a seguir sintetiza quais são essas ferramentas e suas descrições.
 
 | Ferramentas | Descrição |
 |--- |---|
@@ -22,4 +22,5 @@ Esta tabela irá mostrar as ferramentas que vamos utilizar ao longo do semestre 
 |--- |--- |--- |--- |--- |
 | 1.0 | 09/07/2022 | Criação inicial do documento | Pedro Henrique | Guilherme Nishimura
 | 1.1 | 21/07/2022 | Ajuste do documento | Pedro Henrique | Guilherme Nishimura
-| 2.0 | 12/09/2022 | Novas ferramentas | Guilherme Nishimura | -
+| 2.0 | 12/09/2022 | Novas ferramentas | Guilherme Nishimura | - |
+| 2.1 | 12/09/2022 | Melhoria da introdução |  Karla | - |

@@ -59,7 +59,7 @@ Os documentos da inspeção de cada artefato encontram-se abaixo.
 
 ## Preparação
 
-O método utilizado para realizar a inspeção será a partir de **checklists** que conterão perguntas para serem analisadas se foram ou não atendidas. Desse modo, quando positivo será atribuído o símbolo de *"check"*, e caso contrário, o símbolo *"X"*, demonstrados na legenda abaixo.
+O método utilizado para realizar a inspeção será a partir de **checklists** que conterão perguntas elaboradas à partir das referências bibliográficas da disciplina e das observações feitas pelo professor e monitor, para serem analisadas se foram ou não atendidas. Desse modo, quando positivo será atribuído o símbolo de *"check"*, e caso contrário, o símbolo *"X"*, demonstrados na legenda abaixo.
 
 ✅: Atendido  
 ❌: Não atendido

@@ -6,6 +6,9 @@ Neste documento será abordada a realização da verificação por inspeção do
 
 A inspeção do artefato de Personas será feito com base nas perguntas presentes no checklist abaixo, onde serão atribuídos os símbolos ✅ para atendido e ❌ para não atendido. 
 
+Autor(es) do artefato: Guilherme Nishimura
+Inspetor: Karla Chaiane
+
 <center>
 
 | ID | Questão |
