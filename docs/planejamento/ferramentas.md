@@ -12,6 +12,9 @@ Esta tabela irá mostrar as ferramentas que vamos utilizar ao longo do semestre 
 | ![discord](https://user-images.githubusercontent.com/57445188/180213514-8b3180fe-5076-4d9d-bea1-17bd68778706.png) | Discord - Plataforma em que vamos nos comunicar por chamada de áudio |
 | ![lucid](https://user-images.githubusercontent.com/57445188/180213530-77d56313-777c-47c8-9edb-bbbbca65b63d.png) | Lucidchart - Ferramenta case, onde vamos fazer nosso diagrama|
 | ![forms](https://user-images.githubusercontent.com/57445188/180213519-81d29545-4b52-4cb1-84b0-4cdaf741aa5c.png) | Google Forms - Ferramento do google, para fazer a realização da pesquisa
+| ![image](https://user-images.githubusercontent.com/78215376/189721294-087d0b16-9497-4e00-abc8-3e48d2458d37.png) | YOUTUBE - Para Guardar os videos 
+| ![image](https://user-images.githubusercontent.com/78215376/189721031-8f6ebf4d-17e7-48ac-a9fc-a62729d443a5.png) | OBS STUDIO-Para gravação de entrevistas e das apresentações
+
 
 
 ## Versionamento
@@ -19,3 +22,4 @@ Esta tabela irá mostrar as ferramentas que vamos utilizar ao longo do semestre 
 |--- |--- |--- |--- |--- |
 | 1.0 | 09/07/2022 | Criação inicial do documento | Pedro Henrique | Guilherme Nishimura
 | 1.1 | 21/07/2022 | Ajuste do documento | Pedro Henrique | Guilherme Nishimura
+| 2.0 | 12/09/2022 | Novas ferramentas | Guilherme Nishimura | -
