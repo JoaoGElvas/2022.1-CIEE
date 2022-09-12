@@ -34,6 +34,8 @@ https://www.youtube.com/watch?v=PsuaEUxcKz0
 
 ## Conclusão
 
+  Com base nas entrevistas, vimos que os protótipos foram bons, por serem intuitivos com o que foi proposto, mas é falho com relação as outras telas, porque o protótipo foi feito baseado no fluxo de se candidatar em uma vaga e depois aceitar ela. 
+  
   
 ## Referências
 BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
