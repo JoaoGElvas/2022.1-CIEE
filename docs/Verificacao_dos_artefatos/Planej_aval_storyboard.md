@@ -30,7 +30,7 @@ A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o
 
 Após a checklist feita pode ser concluir que nesta etapa precisa de um teste piloto para atingir um 100% de satisfação com base na figura 1 abaixo:
 
-![image](https://user-images.githubusercontent.com/78215376/185990603-0d7c5289-575a-4c74-9ed7-cd4a8552df16.png)
+![image](https://user-images.githubusercontent.com/78215376/189722982-55fbd1d7-6315-4b0a-9b05-2d60b478cc4f.png)
 
 *Figura 1*
 
@@ -45,3 +45,4 @@ Após a checklist feita pode ser concluir que nesta etapa precisa de um teste pi
 | Versão | Data       | Descrição                                                     | Autor(es)                 |
 | ------ | ---------- | ------------------------------------------------------------- | ------------------------- |
 | 1.0    | 22/08/2022 | Criação do documento                                          | Guilherme Nishimura da Silva |
+| 2.0    | 12/09/2022 | Ajustes no checklist                                         | Guilherme Nishimura da Silva |
