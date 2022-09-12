@@ -6,6 +6,11 @@ Este documento irá abordar a verificação do Perfil de usuário.
 
 A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o símbolo ✅ como atendido, ou o símbolo ❌ como não atendido.
 
+Criador: Luis Henrique
+
+Inspetor: Guilherme Nishimura da Silva
+
+
 | ID  | Tópico                                                                     | Análise |
 | --- | -------------------------------------------------------------------------- | ------- |
 | 01  | O documento está gramaticamente correto?                                   | ✅      |
@@ -39,3 +44,4 @@ Após a checklist feita pode ser concluir que ainda há erros que podem ser melh
 |--------|----|-----------|-------|---------|
 | 1.0 |	22/08/2022	| Criação do documento |  Guilherme | Pedro Henrique |
 | 2.0 |	12/09/2022	| Ajustes checklist |  Guilherme | Pedro Henrique |
+| 2.0 |	12/09/2022	| Anexo de autor e inspetor | Guilherme | Pedro Henrique
