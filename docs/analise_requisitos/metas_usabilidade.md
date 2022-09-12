@@ -12,8 +12,8 @@
   - Capacidade de aprendizagem (learnability): refere-se a quão fácil é aprender a usar o sistema.
   - Capacidade de memorização (memorability): refere-se à facilidade de lembrar como utiliza um sistema, depois de já se ter aprendido como fazê-lo.
 
-## Metas principais do projeto
-  O site CIEE tem como objetivo ajudar os jovens a conseguirem um estágio ou um trabalho de júnior, e como visto na análise de perfil de usuário a faixa etária é entre 14 até 24 anos, e baseado nessas informações a prioridade das metas de usabilidade são a eficácia, para auxiliar da melhor maneira quem quer conseguir um estágio; a segurança, para proteger os dados do usuário; e a memorability, pois o usuário provávelmente precisará acessar o site várias vezes, para procurar vaga de estágio ou júnior. Desta forma procurando estruturar o site da melhor maneira possível.
+## Metas utilizadas para avaliação do site
+  O site CIEE tem como objetivo ajudar os jovens a conseguirem um estágio ou um trabalho de júnior, e como visto na análise de perfil de usuário a faixa etária é entre 14 até 24 anos, e baseado nessas informações as metas de usabilidade que foram utilizadas são a eficácia, para auxiliar da melhor maneira quem quer conseguir um estágio; a segurança, para proteger os dados do usuário; e a memorability, pois o usuário provávelmente precisará acessar o site várias vezes, para procurar vaga de estágio ou júnior. Desta forma procurando estruturar o site da melhor maneira possível.
 
 ## Referências Bibliograficas
 JENNIFER PREECE & YVONNE ROGERS & HELEN SHARP. Design de Interação: Além da interação homemcomputador. John Wiley e Sons. São Paulo - SP. 1ª Edição. Editora Erica, 2005.
