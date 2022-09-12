@@ -20,6 +20,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3jAzls47fSE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
   O teste piloto foi realizado na data de 12/09/2022 ás 17h, e o teste teve a duração de quase 2 minutos. O entrevistado se chama Robson Guimarães, estudante do curso de graduação Engenharia de Software da Unb.
 
 Durante a entrevista, o Robson teve uma facilidade em fazer a atividade proposta, que foi se candidatar a uma vaga e depois ele ia aceitar a vaga em que se candidatou. O teste não precisou fazer nenhuma mudança no planejamento, com o feedback do Robson, e dos entrevistadores, chegaram a esssa conclusão, de que não precisava fazer nenhuma modificação no planejamento.
@@ -27,6 +28,7 @@ Durante a entrevista, o Robson teve uma facilidade em fazer a atividade proposta
 ### 4.2 Entrevista
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PsuaEUxcKz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
   O teste piloto foi realizado na data de 12/09/2022 ás 19h, e o teste teve a duração de quase 2 minutos. O entrevistado se chama Guilherme Arantes, estudante do curso de graduação Engenharia de Software da Unb.
   
