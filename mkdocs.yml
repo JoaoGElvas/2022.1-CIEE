@@ -19,7 +19,9 @@ nav:
     - Perfil de Usuário: analise_requisitos/perfil_usuario.md
     - Aspectos Éticos: analise_requisitos/aspectos_eticos.md
     - Personas: analise_requisitos/personas.md
-    - Análise de Tarefas: analise_requisitos/analise_tarefas.md
+    - Análise de Tarefas:
+      - Análise Hierárquica de Tarefas: analise_requisitos/analise_tarefas_hta.md
+      - Árvores de Tarefas Concorrentes: analise_requisitos/analise_tarefas_ctt.md
     - Princípios Gerais do Projeto: analise_requisitos/Principios_projeto.md
     - Metas de Usabilidade: analise_requisitos/metas_usabilidade.md
     - Guia de Estilo: analise_requisitos/guia_estilo.md

@@ -48,7 +48,7 @@
 | 2.2.5 Inserir Experiência Profissional | **Input:** botão de adicionar experiência <br> **Ação:** preencher informações de empresa e cargo |
 | 2.2.6 Realizar Redação | **Ação:** escolher tema e escrever redação |
 
-### Diagrama do objetivo candidatar perfil:
+### Diagrama do objetivo candidatar a vaga:
 | ![candidatarVagas](https://user-images.githubusercontent.com/79341819/180103620-c3ea1e28-4d3b-4a69-a033-0dd28dd4ce2e.png) |
 |:--:|
 |*(Figura 3) Diagrama do "objetivo candidatar vagas"*|
