@@ -12,22 +12,8 @@ Ao longo da elaboração do projeto serão necessárias algumas ferramentas para
 | ![discord](https://user-images.githubusercontent.com/57445188/180213514-8b3180fe-5076-4d9d-bea1-17bd68778706.png) | Discord - Plataforma em que vamos nos comunicar por chamada de áudio |
 | ![lucid](https://user-images.githubusercontent.com/57445188/180213530-77d56313-777c-47c8-9edb-bbbbca65b63d.png) | Lucidchart - Ferramenta case, onde vamos fazer nosso diagrama|
 | ![forms](https://user-images.githubusercontent.com/57445188/180213519-81d29545-4b52-4cb1-84b0-4cdaf741aa5c.png) | Google Forms - Ferramento do google, para fazer a realização da pesquisa
-| ![image](https://user-images.githubusercontent.com/78215376/189721294-087d0b16-9497-4e00-abc8-3e48d2458d37.png) | YOUTUBE - Para Guardar os videos 
-| ![image](https://user-images.githubusercontent.com/78215376/189721031-8f6ebf4d-17e7-48ac-a9fc-a62729d443a5.png) | OBS STUDIO-Para gravação de entrevistas e das apresentações
-
-## Tabela com ferramentas
-
-Na tabela 1 abaixo será mostrado a utilização das ferramentas nas etapas do projeto.
-
-
-| **Etapas**                         | **GitHub** | **WhatsApp** | **Vscode** | **Google Docs** | **Microsoft Teams** | **Discord** | **Lucidchart** | **YOUTUBE** | **OBS STUDIO** |
-|----------------------------------|------------|--------------|------------|-----------------|---------------------|-------------|----------------|-------------|----------------|
-| Planejamento                     | ✅          | ✅            | ✅          | ✅               | ✅                   | ✅           | ✅              | ✅           | ✅              |
-| Analise de Requisitos            | ✅          | ✅            | ❌          | ✅               | ✅                   | ✅             | ✅              | ✅           | ✅              |
-| Verificação de artefatos         | ✅          | ✅            | ❌          | ❌               | ✅                   | ❌           | ✅              | ✅           | ✅              |
-| design_avaliacao_desenvolvimento | ✅          | ✅            | ✅          | ❌               | ✅                   | ❌             | ✅              | ✅           | ✅              |
-
-
+| ![1384060 (1) (2)](https://user-images.githubusercontent.com/78215376/189770979-28eff2a9-5208-4b88-aa50-d54d39021a4b.png) | YOUTUBE - Para Guardar os videos 
+| ![images](https://user-images.githubusercontent.com/78215376/189770950-42125190-ff28-4bf3-bb72-978d3c75d1a4.png) | OBS STUDIO-Para gravação de entrevistas e das apresentações
 
 
 ## Referência Bibliográfica
@@ -41,4 +27,4 @@ BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador"
 | 1.1 | 21/07/2022 | Ajuste do documento | Pedro Henrique | Guilherme Nishimura
 | 2.0 | 12/09/2022 | Novas ferramentas | Guilherme Nishimura | - |
 | 2.1 | 12/09/2022 | Melhoria da introdução |  Karla | - |
-| 2.2 | 12/09/2022 | Tabela com ferramentas |  Guilherme Nishimura | - |
+
