@@ -31,9 +31,20 @@ Segue os links abaixos para o planejamento e avaliação dos sites :
 
 O motivo da escolha foram as seguintes:
 
-* Dificuldades encontradas no site
-* Alcance dos usuários
-* Familiaridade do site por parte dos integrantes 
+Em uma filtragem do grupo para melhor empenho e maior aprovação foram levantados seguintes topicos para analise:Familiaridade por partes dos membros ,Dificuldade encontradas no site,Alcance dos usuários .
+
+Após a reunião, os sites foram analisados e muitos se encaixavam nesses topicos porem o site CIEE foi o que se encaixou melhor nas propostas feitas :
+
+* Familiaridade por partes dos membros: Os membros já tiveram muito contanto com o site CIEE;
+
+* Dificuldades encontradas no site: Falta de informações e paginas em brancos como exemplo(Ver na [Planejamento e avaliação do site CIEE ](avaliacao_ciee.md)) que para equipe seria interessante de ser analisada e estudada;
+
+* Alcance dos úsuarios: Em virtude do grande volume que o CIEE possui de pessoas seria melhor para equipe na hora de fazer entrevistas e outras atividades;
+
+
+
+
+
 
 ## Referências Bibliográficas
 BARBOSA, Simone; SILVA, Bruno. "Interação Humano-Computador". Elsevier Editora Ltda, 2010.
@@ -44,6 +55,7 @@ MACIEL,Cristiano."Avaliação Heurística de Sítios na Web".Instituto de Comput
 | Versão | Data | Descrição | Autor | Revisão
 |--- |--- |--- |--- |--- |
 | 1.0 | 09/07/2022 | Criação inicial do documento | Guilherme Nishimura | Pedro Henrique
+| 2.0 | 12/09/2022 | Ajustes solicitados | Guilherme Nishimura | Pedro Henrique
 
 
 
