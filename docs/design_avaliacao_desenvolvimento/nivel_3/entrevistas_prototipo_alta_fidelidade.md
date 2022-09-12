@@ -26,6 +26,12 @@ Durante a entrevista, o Robson teve uma facilidade em fazer a atividade proposta
 
 ### Entrevista
 
+https://www.youtube.com/watch?v=PsuaEUxcKz0
+
+  O teste piloto foi realizado na data de 12/09/2022 ás 19h, e o teste teve a duração de quase 2 minutos. O entrevistado se chama Guilherme Arantes, estudante do curso de graduação Engenharia de Software da Unb.
+  
+  Durante a entrevista o Guilherme teve bastante facilidade em realizar as tarefas que foram impostas a ele, que foram se candidatar a uma vaga e depois ele ia aceitar a vaga em que se candidatou. Segundo ele, achou muito intuitivo e não teve dificuldades em conseguir achar as funcionalidades e realizar tudo.
+
 ## Conclusão
 
   
