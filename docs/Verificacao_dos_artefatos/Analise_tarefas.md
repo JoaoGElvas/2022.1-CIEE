@@ -27,7 +27,7 @@ A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o
 
 Após a checklist feita pode ser concluir que nesta etapa foi muito satisfatória devida a ausencia de erros como demonstra a figura 1 com o gráfico de pizza abaixo:
 
-![image](https://user-images.githubusercontent.com/78215376/185987580-73fbd677-58ed-412f-9c1b-2ff8b35f6dfe.png)
+![image](https://user-images.githubusercontent.com/78215376/189722239-8c2be41b-658c-4dd7-aa22-df9c82429bea.png)
 
 *Figura 1*
 
@@ -42,3 +42,5 @@ Após a checklist feita pode ser concluir que nesta etapa foi muito satisfatóri
 |Versão	| Data	| Descrição |	Autor(s)	| Revisor(s)|
 |--------|----|-----------|-------|---------|
 | 1.0 |	22/08/2022	| Criação do documento | Guilherme | Pedro Henrique |
+| 2.0 |	22/08/2022	| Ajuste no checklist | Guilherme | Pedro Henrique |
+
