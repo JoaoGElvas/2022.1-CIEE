@@ -45,9 +45,9 @@ Após a checklist feita pode ser concluir que nesta etapa precisa de um teste pi
 
 ## 5. Histórico de Versão
 
-| Versão | Data       | Descrição                                                     | Autor(es)                 |
-| ------ | ---------- | ------------------------------------------------------------- | ------------------------- |
-| 1.0    | 22/08/2022 | Criação do documento                                          | Guilherme Nishimura da Silva |
-| 2.0    | 12/09/2022 | Ajustes no checklist                                         | Guilherme Nishimura da Silva |
-| 2.0    | 12/09/2022 | Anexo de Autor e inspetor                                      | Guilherme Nishimura da Silva |
+| Versão | Data       | Descrição                                                     | Autor(es)                 | Revisor(s)|
+| ------ | ---------- | ------------------------------------------------------------- | ------------------------- |---------|
+| 1.0    | 22/08/2022 | Criação do documento                                          | Guilherme Nishimura da Silva |Pedro Henrique |
+| 2.0    | 12/09/2022 | Ajustes no checklist                                         | Guilherme Nishimura da Silva |Pedro Henrique |
+| 2.0    | 12/09/2022 | Anexo de Autor e inspetor                                      | Guilherme Nishimura da Silva |Pedro Henrique |
 
