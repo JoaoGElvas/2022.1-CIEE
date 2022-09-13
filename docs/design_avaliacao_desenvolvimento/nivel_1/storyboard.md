@@ -6,7 +6,7 @@ Storyboarding é uma técnica extraída do cinema que usa estruturas simples no 
 Sua elaboração pode ser feita através de softwares ou manualmente por disposição em quadrinhos de tarefas feitas pelos personagens, destacando aspectos como o que o levou a esta tarefa, como e por que.
 
 ## 2. Metodologia
-A partir da identificação das tarefas realizadas no documento de [Análise Tarefas](../../analise_requisitos/analise_tarefas.md) foram criados personagens realizando as situações descritas no documento de forma resumida e encontrando eventuais problemas.
+A partir da identificação das tarefas realizadas no documento de [Análise Tarefas](../../analise_requisitos/analise_tarefas_hta.md) foram criados personagens realizando as situações descritas no documento de forma resumida e encontrando eventuais problemas.
 
 Para a confecção do storyboard foi utilizada a ferramenta online [StoryboardThat](https://www.storyboardthat.com).
 

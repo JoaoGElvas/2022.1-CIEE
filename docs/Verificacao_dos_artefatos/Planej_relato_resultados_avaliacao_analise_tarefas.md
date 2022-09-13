@@ -1,7 +1,7 @@
 # Verificação planejamento do relato dos resultados da avaliação da análise de tarefas
 
 ## 1. Introdução
-Este documento irá abordar a verificação do planejamento do relato dos resultados da avaliação da [Análise de tarefas](../analise_requisitos/analise_tarefas.md).
+Este documento irá abordar a verificação do [Planejamento do Relato dos Resultados da Avaliação da Análise de tarefas](../design_avaliacao_desenvolvimento\nivel_1\Planejamento_relato_resultados_avaliacao_analise_tarefas.md).
 
 
 ## 2. Metodologia

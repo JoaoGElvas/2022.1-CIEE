@@ -1,6 +1,6 @@
 ## 1. Introdução
 
-Neste documento será abordada a realização da verificação por inspeção do artefatos de [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](../design_avaliacao_desenvolvimento/nivel_3/Planejamento_relato_plot_alta_fidelidade.md) baseado na metologia adotada do documento de [Introdução](introducao.md), a fim de identificar possíveis erros em sua elaboração e, caso necessário, corrigí-los para aperfeiçoar o artefato de acordo com os conteúdos aprendidos durante a disciplina.
+Neste documento será abordada a realização da verificação por inspeção do artefatos de [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](..\design_avaliacao_desenvolvimento\nivel_3\Planejamento_relato_prot_alta_fidelidade.md) baseado na metologia adotada do documento de [Introdução](introducao.md), a fim de identificar possíveis erros em sua elaboração e, caso necessário, corrigí-los para aperfeiçoar o artefato de acordo com os conteúdos aprendidos durante a disciplina.
 
 ## 2. Preparação
 

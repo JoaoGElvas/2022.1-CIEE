@@ -33,7 +33,7 @@ Foi realizado uma entrevista com a aluna Marianna do curso de Pedagogia da UnB u
 <center>Tabela 1: Questionário respondido na estrevista <br>
 <small>Fonte: Autor</small></center>
 
-Após responder as perguntas do questionário, passamos para a avaliação da Análise de Tarefas pela plataforma para validar o artefato de [Análise de Tarefas](../../analise_requisitos/analise_tarefas.md). Desse modo, a entrevistada relatou quais passos faria para realizar a tarefa de procurar vagas, e o entrevistador seguiu esses passos.
+Após responder as perguntas do questionário, passamos para a avaliação da Análise de Tarefas pela plataforma para validar o artefato de [Análise de Tarefas](../../analise_requisitos/analise_tarefas_hta.md). Desse modo, a entrevistada relatou quais passos faria para realizar a tarefa de procurar vagas, e o entrevistador seguiu esses passos.
 
 ## 4. Conclusão
 Com a entrevista foi possível perceber que os passos que o usuário faz condizem com os relatados na Análise de Tarefas. Porém, a entrevistada constata que o site CIEE não satisfaz a necessidade do usuário de procurar e cadastrar-se em vagas. 
