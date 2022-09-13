@@ -24,11 +24,16 @@ Inspetor: Davi Lima
 | 09  | Foram relatados os resultados da entrevista?                               | ✅      |
 | 10  | Apresenta versionamento coerente com o padrão definido pelo grupo?         | ✅      |
 | 11  | Possui referências bibliográficas?                                         | ✅      |
-<center> *Tabela 1: Checklist (Fonte: autoria própia)* </center>
+
+<center> *Tabela 1: Checklist (Fonte: autor Davi Lima : 22/08)* </center>
 
 ## 3.1 Acompanhamento: Porcetagem de sucesso do checklist
 
-- 100% de acertos;
+- 100% de atendidos;
+
+<center>![chart](https://user-images.githubusercontent.com/78981063/186037037-269792ce-33f6-46f2-8ec0-4f11bfc26923.png)  
+**Gráfico 1: Porcentagem de requisitos atendidos na inspeção** <br>
+<small>Fonte: Autor</small></center>
 
 Todas as questões levantadas pelo checklist foram bem sucedidas.
 

@@ -27,7 +27,7 @@ Inspetor: Guilherme Nishimura da Silva
 | 14  | O documento está coeso e coerente?                                         | ✅       |
 | 15  | Está previsto a realização de um teste piloto antes da avaliação?          | ❌      |
 
-
+<center> *Tabela 1: Checklist (Autor: Guilherme Nishimura 22/08)* </center>
 
 ## 3. Conclusão
 

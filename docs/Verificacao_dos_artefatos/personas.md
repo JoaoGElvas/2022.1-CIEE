@@ -29,7 +29,7 @@ Inspetor: Karla Chaiane
 | 15 | O documento segue o padrão estabelecido pelo grupo? |
 
 **Tabela 1: Modelo de checklist para a inspeção** <br>
-<small>Fonte: Autor</small></center>
+<small>Fonte: Autor (Karla Chaiane : 22/08) </small></center>
 
 Além disso, após a inspeção dos elementos da checklist, será feita a correção dos erros encontrados e a geração de gráficos de acompanhamento.
 
@@ -54,7 +54,7 @@ Além disso, após a inspeção dos elementos da checklist, será feita a corre�
 | 15 | O documento segue o padrão estabelecido pelo grupo? | ✅ |   
 
 **Tabela 2: Checklist preenchido após inspeção** <br>
-<small>Fonte: Autor</small></center>
+<small>Fonte: Autor (Karla Chaiane : 22/08)</small></center>
 
 ## 4. Acompanhamento Versão 1
 

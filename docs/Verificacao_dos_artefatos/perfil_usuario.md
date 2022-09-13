@@ -13,22 +13,25 @@ Inspetor: Guilherme Nishimura da Silva
 | --- | -------------------------------------------------------------------------- | ------- |
 | 01  | O documento está gramaticamente correto?                                   | ✅      |
 | 02  | O documento está no padrão da wiki?                                        | ❌       |
-| 03  | O documento deixa claro seus objetivos?                                     | ✅      |
-| 04  | O documento possui versionamento?                                           | ✅       |
-| 05  | Os dados utilizados possuem fontes                                          | ✅       |
-| 06  | É apresentada a escolaridade e a faixa etária dos usuário                   |    ✅     |
-| 07  | Existe uma conclusão para os dados coletados?                                |  ❌     |
-| 08  | Foi apresentada uma metodologia para definição do perfil                     | ✅       |
-| 09 | O documento está coeso e coerente?                                            | ✅       |
+| 03  | O documento deixa claro seus objetivos?                                    | ✅      |
+| 04  | O documento possui versionamento?                                          | ✅       |
+| 05  | Os dados utilizados possuem fontes                                         | ✅       |
+| 06  | É apresentada a escolaridade e a faixa etária dos usuário                  | ✅     |
+| 07  | Existe uma conclusão para os dados coletados?                              | ❌     |
+| 08  | Foi apresentada uma metodologia para definição do perfil                   | ✅       |
+| 09 | O documento está coeso e coerente?                                          | ✅       |
+
+**Tabela 1: Modelo de checklist para a inspeção** <br>
+<small>Fonte: Autor (Guilherme Nishimura : 22/08) </small></center>
 
 ## 3. Conclusão
 
 Após a checklist feita pode ser concluir que ainda há erros que podem ser melhorados com base na figura 1 que representa um gráfico de pizza abaixo:
 
-![image](https://user-images.githubusercontent.com/78215376/189723676-c434c523-b634-41a0-9c06-fd29d30f36c8.png)
+<center>![perfildeusuario](https://user-images.githubusercontent.com/79341819/189705353-7dcb14c5-95ca-42ac-a5ef-bdad573a5e39.png)  
+**Gráfico 1: Porcentagem de requisitos atendidos na inspeção** <br>
+<small>Fonte: Autor</small></center>
 
-
-*Figura 1*
 
 ## 4. Referências
 

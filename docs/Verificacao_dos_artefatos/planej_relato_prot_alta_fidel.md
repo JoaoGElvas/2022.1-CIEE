@@ -1,13 +1,13 @@
 ## 1. Introdução
 
-Neste documento será abordada a realização da verificação por inspeção do artefatos de [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade](../design_avaliacao_desenvolvimento/nivel_2/planejamento_relato_avaliacao_prototipo_papel.md) baseado na metologia adotada do documento de [Introdução](introducao.md), a fim de identificar possíveis erros em sua elaboração e, caso necessário, corrigí-los para aperfeiçoar o artefato de acordo com os conteúdos aprendidos durante a disciplina.
+Neste documento será abordada a realização da verificação por inspeção do artefatos de [Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade](../design_avaliacao_desenvolvimento/nivel_3/Planejamento_relato_plot_alta_fidelidade.md) baseado na metologia adotada do documento de [Introdução](introducao.md), a fim de identificar possíveis erros em sua elaboração e, caso necessário, corrigí-los para aperfeiçoar o artefato de acordo com os conteúdos aprendidos durante a disciplina.
 
 ## 2. Preparação
 
-A inspeção do artefato de Planejamento do Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade será feita com base nas perguntas presentes no checklist abaixo, onde serão atribuídos os símbolos ✅ para atendido e ❌ para não atendido. 
+A inspeção do artefato de Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade será feita com base nas perguntas presentes no checklist abaixo, onde serão atribuídos os símbolos ✅ para atendido e ❌ para não atendido. 
 
-Autor(es) do artefato: Luis Henrique
-Inspetor: Karla Chaiane
+Autor(es) do artefato: Karla Chaiane
+Inspetor: Davi Lima
 
 <center>
 
@@ -19,7 +19,7 @@ Inspetor: Karla Chaiane
 | 4 | O documento segue o padrão estabelecido pelo grupo? |
 
 **Tabela 1: Modelo de checklist para a inspeção** <br>
-<small>Fonte: Autor</small></center>
+<small>Fonte: Autor (Davi Lima : 12/09)</small></center>
 
 Além disso, após a inspeção dos elementos da checklist, será feita a correção dos erros encontrados e a geração de gráficos de acompanhamento.
 
@@ -34,7 +34,7 @@ Além disso, após a inspeção dos elementos da checklist, será feita a corre�
 | 4 | O documento segue o padrão estabelecido pelo grupo? | ✅ |
 
 **Tabela 2: Checklist preenchido após inspeção** <br>
-<small>Fonte: Autor</small></center>
+<small>Fonte: Autor (Davi Lima : 12/09)</small></center>
 
 ## 4. Acompanhamento
 
@@ -58,4 +58,4 @@ De acordo com a inspeção realizada, nenhum dos requisitos apresentou o estado 
 ## 7. Versionamento
 |Versão	| Data	| Descrição |	Autor(es)	| Revisor(es)|
 |--------|----|-----------|-------|---------|
-| 1.0 |	22/08/2022	| Criação do documento | Karla Chaiane | Guilherme Nishimura |
+| 1.0 |	12/09/2022	| Criação do documento | Davi Lima | Guilherme Nishimura |

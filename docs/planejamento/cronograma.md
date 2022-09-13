@@ -102,9 +102,12 @@ Ponto de controle focado em fazer o protótipo de alta fidelidade e planejar mel
 
 | Tarefa                                                                             | Data limite de entrega | Autor(es)      | Revisor(es)  |
 | :--------------------------------------------------------------------------------- | ---------------------- | -------------- | ------------ |
-| Relato dos resultados do Protótipo de Papel                                        | 04/09/2022             | A Definir  | A Definir |
-| Planejamento da Avaliação do protótipo de alta fidelidade                          | 04/09/2022             | A Definir | A Definir |
-| planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 04/09/2022             | A Definir   | A Definir |
+| Relato dos resultados do Protótipo de Papel                                        | 05/09/2022             | Davi Lima  | Karla Chaiane  |
+| Criação do protótipo de alta fidelidade                                            | 05/09/2022             | Karla Chaiane | Davi Lima |
+| Planejamento da Avaliação do protótipo de alta fidelidade                          | 05/09/2022             | Pedro Henrique | Guilherme Nishimura |
+| planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | 05/09/2022             | Guilherme Nishimura   | Pedro Henrique |
+| Gravação do video de apresentação                                        | 05/08/2022  | Davi, Guilherme, Karla e Pedro    | Davi, Guilherme, Karla e Pedro |
+| Edição do video de apresentação                                          | 05/08/2022        | Davi Lima            | Davi, Guilherme, Karla e Pedro|
 
 ## Apresentação final (12/09)
 
@@ -112,7 +115,10 @@ Apresentação final do projeto da disciplina
 
 | Tarefa                   | Data limite de entrega | Autor(es)    | Revisor(es)  |
 | :----------------------- | ---------------------- | ------------ | ------------ |
-| Entrega do projeto final | 11/09/2022             | Todos os integrantes | Todos os integrantes |
+| Entrega do projeto final | 12/09/2022             | Todos os integrantes | Todos os integrantes |
+| Verificação dos artefatos | 12/09/2022             | Todos os integrantes | Todos os integrantes |
+| Gravação do video de apresentação                 | 12/09/2022  | Davi, Guilherme, Karla e Pedro    | Davi, Guilherme, Karla e Pedro |
+| Edição do video de apresentação                   | 12/09/2022        | Davi Lima            | Davi, Guilherme, Karla e Pedro|
 
 ## Referências
 

@@ -16,22 +16,25 @@ Inspetor: Guilherme Nishimura da Silva
 | 02  | O documento está no padrão da wiki?                                        | ✅       |
 | 03  | O documento deixa claro seus objetivos?                                    | ✅      |
 | 04  | A metodologia está bem explicada?                                          | ✅       |
-| 05  |São apresentadas metas de usabilidade?                                       | ✅       |
+| 05  |São apresentadas metas de usabilidade?                                      | ✅       |
 | 06  | São apresentados objetivos de usabilidade?                                 | ✅       |
-| 07  | É apresentado checklist para testar a usabilidade?                        |      ❌  |
-| 08  | As metas foram contextualizadas para o site da prefeitura de Passo-Fundo? | ✅       |
-| 09  | Foram identificados os requisitos de usabilidade?	                        | ❌       |
-| 10  | Há preocupação com uso efetivo do produto?                              | ✅       |
-| 11  | Possui referências textuais?                                            | ✅       |
-| 12  | O documento está coeso e coerente?                                     | ✅        |
+| 07  | É apresentado checklist para testar a usabilidade?                         |      ❌  |
+| 08  | As metas foram contextualizadas para o site da prefeitura de Passo-Fundo?  | ✅       |
+| 09  | Foram identificados os requisitos de usabilidade?	                       | ❌       |
+| 10  | Há preocupação com uso efetivo do produto?                                 | ✅       |
+| 11  | Possui referências textuais?                                               | ✅       |
+| 12  | O documento está coeso e coerente?                                         | ✅        |
+
+**Tabela 1: Modelo de checklist para a inspeção** <br>
+<small>Fonte: Autor (Guilherme Nishimura : 22/08) </small></center>
 
 ## 3. Conclusão
 
 Após a checklist feita pode ser concluir que nesta etapa foi muito satisfatória devida a ausencia de erros como demonstra a figura 1 com o gráfico de pizza abaixo:
 
-![image](https://user-images.githubusercontent.com/78215376/189722473-24a64ddf-78e7-4cd3-83ba-c311fff38b69.png)
-
-*Figura 1*
+<center>![image](https://user-images.githubusercontent.com/78215376/189722473-24a64ddf-78e7-4cd3-83ba-c311fff38b69.png) 
+**Gráfico 1: Porcentagem de requisitos atendidos na inspeção** <br>
+<small>Fonte: Autor</small></center>
 
 ## 4. Referências
 

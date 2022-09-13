@@ -10,6 +10,7 @@ theme:
 
 nav:
   - Inicio: index.md
+  
   - Planejamento:
     - Escolha do site: planejamento/escolha_site.md
     - Ferramentas: planejamento/ferramentas.md
@@ -25,6 +26,7 @@ nav:
     - Princípios Gerais do Projeto: analise_requisitos/Principios_projeto.md
     - Metas de Usabilidade: analise_requisitos/metas_usabilidade.md
     - Guia de Estilo: analise_requisitos/guia_estilo.md
+  
   - Design, avaliação e desenvolvimento:
     - Nível 1:
       - Storyboard:
@@ -41,11 +43,12 @@ nav:
       - Protótipo de Baixa Fidelidade: design_avaliacao_desenvolvimento/nivel_2/prototipo_baixa_fidelidade.md
       - Planejamento da avaliação do Protótipo de Baixa Fidelidade: design_avaliacao_desenvolvimento/nivel_2/planejamento_analise_prototipo_papel.md
       - Planejamento do relato dos resultados da avaliação: design_avaliacao_desenvolvimento/nivel_2/planejamento_relato_avaliacao_prototipo_papel.md 
-      - Relato e Avaliação do prototipo de baixa fidelidade: design_avaliacao_desenvolvimento/nivel_2/relato_prototipo_papel.md
+      - Relato e Avaliação do prototipo de Baixa Fidelidade: design_avaliacao_desenvolvimento/nivel_2/relato_prototipo_papel.md
     - Nível 3:
       - Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel_3/prototipo_alta_fidelidade.md
-      - Planejamento da avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento\nivel_3\planejamento_avaliacao_do_prototipo_alta_fidelidade.md
-      - Planejamento do relato dos resultados da avaliação: design_avaliacao_desenvolvimento\nivel_3\Planejamento_relato_prot_alta_fidelidade.md
+      - Planejamento da avaliação do Protótipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel_3/planejamento_avaliacao_do_prototipo_alta_fidelidade.md
+      - Planejamento do relato dos resultados da avaliação: design_avaliacao_desenvolvimento/nivel_3/Planejamento_relato_prot_alta_fidelidade.md
+      - Relato e Avaliação do prototipo de Alta Fidelidade: design_avaliacao_desenvolvimento/nivel_3/entrevistas_prototipo_alta_fidelidade.md
   - Verificação:
     - Introdução: Verificacao_dos_artefatos/introducao.md
     - Análise de Requisitos:
@@ -71,4 +74,11 @@ nav:
         - Protótipo de Baixa Fidelidade: Verificacao_dos_artefatos/prototipo_baixa_fidel.md
         - Planejamento da avaliação do Prótotipo de Baixa fidelidade: Verificacao_dos_artefatos/planej_prot_baixa_fidel.md
         - Planejamento do relato dos resultados da avaliação: Verificacao_dos_artefatos/planej_relato_prot_baixa_fidel.md
+      - Nível 3:
+        - Protótipo de Alta Fidelidade: Verificacao_dos_artefatos/prototipo_alta_fidel.md
+        - Planejamento da avaliação do Protótipo de Alta Fidelidade: Verificacao_dos_artefatos/planej_prot_alta_fidel.md
+        - Planejamento do relato dos resultados da avaliação: Verificacao_dos_artefatos/planej_relato_prot_alta_fidel.md
+        
+  - Etapa Final: fase_final/tabelas.md
+
   - Apresentações: apresentacoes.md

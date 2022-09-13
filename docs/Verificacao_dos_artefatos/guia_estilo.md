@@ -1,5 +1,5 @@
 # Verificação do Guia de estilo
-## Introdução
+## 1.Introdução
   Essa é a verificação do artefato [Guia de estilo](https://github.com/Interacao-Humano-Computador/2022.1-CIEE/blob/main/docs/analise_requisitos/guia_estilo.md).
   
 ## 2. Metodologia
@@ -28,7 +28,9 @@ Questões a serem analisadas:
    
    9 - Existe referência de cores no guia de estilo?
    
-##Verificação
+   Fonte: Autor (Pedro Henrique : 22/08)
+
+## 3.Verificação
 A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o símbolo ✅ como atendido, ou o símbolo ❌ como não atendido.
 
 | ID      |  Pergunta         | Resposta  |
@@ -42,17 +44,18 @@ A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o
 | 7       | Existe referência bibliográfica no guia de estilo? | ✅ |
 | 8       | Existe versionamento no documento? | ✅ |
 | 9       | Existe referência de cores no guia de estilo? | ✅ |
-## Resultado
-  ![image](https://user-images.githubusercontent.com/57445188/185989787-bbd4ce55-cf07-41d9-afc8-1444947e391f.png)
-  
-  *Gráfico da tebela de verificação*
+
+## 4.Resultado
+ <center>![chart (2)](https://user-images.githubusercontent.com/78981063/186037037-269792ce-33f6-46f2-8ec0-4f11bfc26923.png)  
+**Gráfico 1: Porcentagem de requisitos atendidos na inspeção** <br>
+<small>Fonte: Autor</small></center>
   
   Conclui-se que o artefato Guia de estilo está completamente correto segundo o checklist.
 
-## Referências Bibliograficas
+## 5.Referências Bibliograficas
 BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador".
 
-## Versionamento
+## 6.Versionamento
 
 |Versão	| Data	| Descrição |	Autor(s)	| Revisor(s)|
 |--------|----|-----------|-------|---------|

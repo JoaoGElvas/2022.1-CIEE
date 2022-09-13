@@ -24,14 +24,15 @@ Inspetor: Davi Lima
 | 09  | Foi relatado as questões que a avaliação pretende responder?               | ✅     |
 | 10  | Apresenta versionamento coerente com o padrão definido pelo grupo?         | ✅      |
 | 11  | Possui referências bibliográficas?                                         | ✅      |
-<center> *Tabela 1: Checklist (Fonte: autoria própia)* </center>
+
+<center> *Tabela 1: Checklist (Fonte: Davi Lima : 22/08)* </center>
 
 ## 3.1 Acompanhamento: Porcetagem de sucesso do checklist
 
-- 1 Erros E 10 Acertos;
-- 90% de acertos;
+- 1 não atendido E 10 atendidos;
+- 90% de atendidos;
 
-<center> ![Screenshot_98](https://user-images.githubusercontent.com/79341819/186041178-363c5d35-7ded-4356-bfae-2b0509fe8596.png)
+<center> ![Planej_relato_resultados_avaliacao_analise_tarefas](https://user-images.githubusercontent.com/79341819/189708965-6cb1c81e-f604-4f4d-b35a-980bd0e68123.png)
 
 *Figura 1: Gráfico de porcetagem de sucesso do checklist (Fonte: autoria própia)* </center>
 

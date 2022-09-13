@@ -19,5 +19,5 @@ Por meio do protótipo de alta fidelidade, é possível perceber que o design se
 ## 5. Versionamento
 |Versão	| Data	| Descrição |	Autor(es)	| Revisor(es)|
 |--------|----|-----------|-------|---------|
-| 1.0 |	01/09/2022	| Criação do documento | Karla Chaiane | - |
-| 2.0 |	02/09/2022	| Adição de textos e protótipos | Karla Chaiane | - |
+| 1.0 |	01/09/2022	| Criação do documento | Karla Chaiane | Davi Lima |
+| 2.0 |	02/09/2022	| Adição de textos e protótipos | Karla Chaiane | Davi Lima |

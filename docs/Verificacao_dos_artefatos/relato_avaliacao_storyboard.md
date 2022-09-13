@@ -23,6 +23,8 @@ Questões a serem analisadas:
 
    6 - O documento está coeso e coerente?
   
+Fonte: Pedro Henrique : 22/08
+
 ## Verificação
 A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o símbolo ✅ como atendido, ou o símbolo ❌ como não atendido.
 

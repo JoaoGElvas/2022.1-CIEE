@@ -46,6 +46,6 @@ BARBOSA, Simone. SILVA Bruno. "Interação Humano-Computador".
 
 | Data       | Versão | Descrição                                  | Autor(es)      | Revisor(es)  |
 | ---------- | ------ | ------------------------------------------ | -------------- | ------------ |
-| 09/09/2022 | 1.0    | Criação do documento                       | Guilherme Nishimura da Silva  | -|
+| 09/09/2022 | 1.0    | Criação do documento                       | Guilherme Nishimura da Silva  | Pedro Henrique|
 
 

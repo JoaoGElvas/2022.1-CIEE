@@ -29,14 +29,14 @@ Inspetor: Davi Lima
 | 13  | Apresenta as questões éticas envolvidas na avaliação?                      | ❌      |
 | 14  | Apresenta versionamento coerente com o padrão definido pelo grupo?         | ✅      |
 
-<center> *Tabela 1: Checklist (Fonte: autoria própia)* </center>
+<center> *Tabela 1: Checklist (Autor: Davi Lima 22/08)* </center>
 
 ## 3.1 Acompanhamento: Porcetagem de sucesso do checklist
 
-- 2 Erros E 12 Acertos;
-- 83,33% de acertos;
+- 2 Não atendidos E 12 Atendidos;
+- 85,7% de acertos;
 
-<center> ![Screenshot_97](https://user-images.githubusercontent.com/79341819/186038537-2499cd64-3bd3-4dd7-9772-28cf191de33d.png)
+<center> ![planejamentoAvaliacaoAnaliseTarefas](https://user-images.githubusercontent.com/79341819/189708294-b15fa6f6-bb28-476a-ad07-cfd77b45b350.png)
 
 *Figura 1: Gráfico de porcetagem de sucesso do checklist (Fonte: autoria própia)* </center>
 

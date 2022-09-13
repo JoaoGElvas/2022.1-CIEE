@@ -26,6 +26,8 @@ Questões a serem analisadas:
    7 - Os objetivos da avaliação estão bem definidos?
    
    8 - O documento especifica a data, horário e a plataforma utilizada para a avliação?
+
+  Fonte: Pedro Henrique : 22/08
    
 ## Verificação
 A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o símbolo ✅ como atendido, ou o símbolo ❌ como não atendido.
@@ -40,6 +42,7 @@ A verificação vai ser feita com uma tabela com as peguntas do cheklist e com o
 | 6       | O relato dos resultados da avaliação condiz com a realidade? | ✅ |
 | 7       | Os objetivos da avaliação estão bem definidos? | ✅ |
 | 8       | O documento especifica a data, horário e a plataforma utilizada para a avliação? | ❌ |
+
 
 
 

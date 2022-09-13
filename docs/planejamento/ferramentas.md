@@ -14,6 +14,8 @@ Ao longo da elaboração do projeto serão necessárias algumas ferramentas para
 | ![forms](https://user-images.githubusercontent.com/57445188/180213519-81d29545-4b52-4cb1-84b0-4cdaf741aa5c.png) | Google Forms - Ferramento do google, para fazer a realização da pesquisa
 | ![1384060 (1) (2)](https://user-images.githubusercontent.com/78215376/189770979-28eff2a9-5208-4b88-aa50-d54d39021a4b.png) | YOUTUBE - Para Guardar os videos 
 | ![images](https://user-images.githubusercontent.com/78215376/189770950-42125190-ff28-4bf3-bb72-978d3c75d1a4.png) | OBS STUDIO-Para gravação de entrevistas e das apresentações
+| ![figma](https://user-images.githubusercontent.com/79341819/189669875-417daefe-bfd0-4579-a781-8baaf368e143.png)| Figma - Ferramenta online de prototipagem|
+| ![StoryboardThat](https://user-images.githubusercontent.com/79341819/189669817-97f13fe7-c6f9-4693-bb7c-3b90ed4fed2a.png) | StoryBoardThat - Ferramente online para criação de storyboards
 
 
 ## Referência Bibliográfica

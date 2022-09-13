@@ -13,23 +13,25 @@ Inspetor: Davi Lima
 | ID  | Tópico                                                                     | Análise |
 | --- | -------------------------------------------------------------------------- | ------- |
 | 01  | O documento está gramaticamente correto?                                   | ✅      |
-| 02  | O documento está no padrão da wiki?                                        | ✅       |
+| 02  | O documento está no padrão da wiki?                                        | ✅      |
 | 03  | O documento deixa claro seus objetivos?                                    | ✅      |
-| 04  | A metodologia está bem explicada?                                          | ✅       |
-| 05  | Foi identifcado o termo de consentimento?                                  | ✅       |
-| 06  | Foi identificado os 4 principios segundo a Resolução No 466/2012?          | ✅       |
-| 07  | Possui referências textuais?                                               | ✅        |
-| 08  | O documento está coeso e coerente?                                         | ✅       |
+| 04  | A metodologia está bem explicada?                                          | ✅      |
+| 05  | Foi identifcado o termo de consentimento?                                  | ✅      |
+| 06  | Foi identificado os 4 principios segundo a Resolução No 466/2012?          | ✅      |
+| 07  | Possui referências textuais?                                               | ✅      |
+| 08  | O documento está coeso e coerente?                                         | ✅      |
 | 09  | Apresenta versionamento coerente com o padrão definido pelo grupo?         | ✅      |
 | 10  | Possui referências bibliográficas?                                         | ✅      |
+**Tabela 1: Modelo de checklist para a inspeção** <br>
+<small>Fonte: Autor (Davi Lima : 22/08) </small></center>
 
 ## 3. Conclusão
 
 Após a checklist feita pode ser concluir que nesta etapa foi muito satisfatória devida a ausencia de erros como demonstra a figura 1 com o gráfico de pizza abaixo:
 
-![image](https://user-images.githubusercontent.com/78215376/185987580-73fbd677-58ed-412f-9c1b-2ff8b35f6dfe.png)
-
-*Figura 1*
+<center>![chart (2)](https://user-images.githubusercontent.com/78981063/186037037-269792ce-33f6-46f2-8ec0-4f11bfc26923.png)  
+**Gráfico 1: Porcentagem de requisitos atendidos na inspeção** <br>
+<small>Fonte: Autor</small></center>
 
 ## 4. Referências
 
