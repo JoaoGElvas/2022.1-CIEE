@@ -28,6 +28,10 @@
 
 <iframe width="800" height="400" src="https://www.youtube.com/embed/4DG_fNibxdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## Apresentação Final 
+
+<iframe width="800" height="400" src="https://www.youtube.com/embed/pDSveAHVHLc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Versionamento
 | Versão | Data | Descrição | Autor | Revisor |
 |--------|------|-----------|-------|---------|
@@ -39,3 +43,4 @@
 | 1.5    | 17/08/2022 | Inclusão da Apresentação 5 | Karla Feliciano | Davi Lima |
 | 1.6    | 22/08/2022 | Inclusão da Apresentação 6 | Karla Feliciano | Davi Lima |
 | 1.7    | 05/09/2022 | Inclusão da Apresentação 7 | Karla Feliciano | Davi Lima |
+| 1.8    | 12/09/2022 | Inclusão da Apresentação Final | Karla Feliciano | Todos |
